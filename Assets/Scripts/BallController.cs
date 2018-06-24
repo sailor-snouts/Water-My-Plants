@@ -49,6 +49,7 @@ public class BallController : MonoBehaviour {
             Vector3 point = col.contacts[0].point;
             BoxCollider2D box = col.gameObject.gameObject.GetComponent<BoxCollider2D>();
             float thetaMultiplier = (point.x - box.bounds.min.x) / box.bounds.size.x;
+            thetaMultiplier = Mathf.Clamp(thetaMultiplier, 0.15f, 0.85f);
             Vector3 dir = Quaternion.AngleAxis(thetaMultiplier * 180f, Vector3.back) * Vector3.left;
             rb.AddForce(dir * this.ballInitialVelocity);
         }
