@@ -5,12 +5,16 @@ using UnityEngine;
 public class BallController : MonoBehaviour {
     public float ballInitialVelocity = 600f;
     public Transform paddle;
-    public int waterTank = 100;
+    public GameObject tank;
+    private WaterTank tankScript;
+
     private Rigidbody2D rb;
     private bool ballInPlay;
+    private float stuckPositionY = 0.44f;
 
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
+        this.tankScript = tank.GetComponent<WaterTank>();
     }
 	
 	void Update ()
@@ -23,7 +27,7 @@ public class BallController : MonoBehaviour {
 
         // keep locked to paddle
         Vector3 parent = this.paddle.position;
-        parent.y += 0.4f;
+        parent.y += this.stuckPositionY;
         transform.position = parent;
 
         // set free
@@ -66,9 +70,9 @@ public class BallController : MonoBehaviour {
         if (col.gameObject.tag == "Plant")
         {
             TreeController tree = col.gameObject.GetComponent<TreeController>();
-            if(this.waterTank > 0 && tree.CanLevelUp())
+            if(this.tankScript.HasWater(tree.GetLevelCost()) && tree.CanLevelUp())
             {
-                this.waterTank -= 1;
+                this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
             }
         }

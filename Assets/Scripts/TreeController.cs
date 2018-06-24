@@ -15,6 +15,11 @@ public class TreeController : MonoBehaviour {
 		
 	}
 
+    public int GetLevelCost()
+    {
+        return this.levelCost;
+    }
+
     public bool CanLevelUp()
     {
         return this.level < this.levelCap;
