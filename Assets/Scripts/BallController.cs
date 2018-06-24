@@ -5,6 +5,7 @@ using UnityEngine;
 public class BallController : MonoBehaviour {
     public float ballInitialVelocity = 600f;
     public Transform paddle;
+    public int waterTank = 100;
     private Rigidbody2D rb;
     private bool ballInPlay;
 
@@ -59,6 +60,17 @@ public class BallController : MonoBehaviour {
         {
             this.rb.velocity = Vector3.zero;
             this.ballInPlay = false;
+        }
+
+        // Tree
+        if (col.gameObject.tag == "Plant")
+        {
+            TreeController tree = col.gameObject.GetComponent<TreeController>();
+            if(this.waterTank > 0 && tree.CanLevelUp())
+            {
+                this.waterTank -= 1;
+                tree.LevelUp();
+            }
         }
     }
 }
