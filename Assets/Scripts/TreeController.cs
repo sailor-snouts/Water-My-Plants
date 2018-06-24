@@ -3,13 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TreeController : MonoBehaviour {
-    private int levelCap = 4;
-    public int level = 1;
-    private int levelCost = 1;
+    public Sprite[] levels;
+    private int levelCap = 1;
+    private int level = 1;
+    private int levelCost = 5;
+    private SpriteRenderer spriteR;
 
-	void Start () {
-		
-	}
+    void Start () {
+        this.levelCap = this.levels.Length;
+        this.spriteR = gameObject.GetComponent<SpriteRenderer>();
+    }
 	
 	void Update () {
 		
@@ -27,6 +30,7 @@ public class TreeController : MonoBehaviour {
 
     public void LevelUp()
     {
-        this.level += 1;
+        this.level = Mathf.Clamp(this.level+1, 1, this.levelCap);
+        this.spriteR.sprite = this.levels[this.level-1];
     }
 }
