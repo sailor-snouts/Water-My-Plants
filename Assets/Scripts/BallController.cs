@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BallController : MonoBehaviour {
     public float ballInitialVelocity = 600f;
+    public Transform paddle;
     private Rigidbody2D rb;
     private bool ballInPlay;
 
@@ -17,11 +18,11 @@ public class BallController : MonoBehaviour {
         if (ballInPlay)
         {
             return;
-        }
+        } 
 
         // keep locked to paddle
-        Vector3 parent = transform.parent.gameObject.transform.position;
-        parent.y += 0.64f;
+        Vector3 parent = this.paddle.position;
+        parent.y += 0.4f;
         transform.position = parent;
 
         // set free
@@ -36,11 +37,11 @@ public class BallController : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D col)
     {
-
         if (!ballInPlay)
         {
             return;
         }
+
         // adjust theta based on where it hit the paddle
         if (col.gameObject.tag == "Player")
         {
@@ -50,6 +51,13 @@ public class BallController : MonoBehaviour {
             float thetaMultiplier = (point.x - box.bounds.min.x) / box.bounds.size.x;
             Vector3 dir = Quaternion.AngleAxis(thetaMultiplier * 180f, Vector3.back) * Vector3.left;
             rb.AddForce(dir * this.ballInitialVelocity);
+        }
+
+        // deadzone, reset ball
+        if (col.gameObject.tag == "Deadzone")
+        {
+            this.rb.velocity = Vector3.zero;
+            this.ballInPlay = false;
         }
     }
 }
