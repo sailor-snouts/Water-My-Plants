@@ -20,8 +20,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4713371953270186}
   - component: {fileID: 212080110828308502}
-  - component: {fileID: 61643140441534380}
   - component: {fileID: 114117783490815208}
+  - component: {fileID: 58143243407913418}
   m_Layer: 0
   m_Name: Tree
   m_TagString: Plant
@@ -36,14 +36,14 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1676202162496094}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.85578763, y: -1.434125, z: 0}
+  m_LocalPosition: {x: 1.01, y: -1.68, z: 0.044921875}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &61643140441534380
-BoxCollider2D:
+--- !u!58 &58143243407913418
+CircleCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -54,19 +54,9 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.06828767, y: 0.39834428}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.7, y: 2.78}
-    newSize: {x: 1.7, y: 2.78}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_Offset: {x: -0.1, y: 0.5}
   serializedVersion: 2
-  m_Size: {x: 0.86342466, y: 0.442317}
-  m_EdgeRadius: 0
+  m_Radius: 0.45991945
 --- !u!114 &114117783490815208
 MonoBehaviour:
   m_ObjectHideFlags: 1

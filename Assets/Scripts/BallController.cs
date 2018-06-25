@@ -6,8 +6,9 @@ public class BallController : MonoBehaviour {
     public float ballInitialVelocity = 600f;
     public Transform paddle;
     public GameObject tank;
-    private WaterTank tankScript;
+    public bool isAlive = true;
 
+    private WaterTank tankScript;
     private Rigidbody2D rb;
     private bool ballInPlay;
     private float stuckPositionY = 0.44f;
@@ -64,6 +65,12 @@ public class BallController : MonoBehaviour {
         {
             this.rb.velocity = Vector3.zero;
             this.ballInPlay = false;
+            if (!this.tankScript.HasWater())
+            {
+                this.isAlive = false;
+                return;
+            }
+            this.tankScript.UseWater(25);
         }
 
         // Tree
