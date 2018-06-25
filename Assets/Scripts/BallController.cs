@@ -84,4 +84,15 @@ public class BallController : MonoBehaviour {
             }
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        // Water
+        if (col.gameObject.tag == "Water")
+        {
+            WaterSource source = col.gameObject.GetComponent<WaterSource>();
+            int empty = this.tankScript.GetWaterCapacity() - this.tankScript.GetWaterAmount();
+            this.tankScript.AddWater(source.GetWater(empty));
+        }
+    }
 }

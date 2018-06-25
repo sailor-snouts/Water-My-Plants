@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TreeController : MonoBehaviour {
+public class TreeController : MonoBehaviour
+{
+    public int levelCost = 2;
     public Sprite[] levels;
     private int levelCap = 1;
     private int level = 1;
-    private int levelCost = 1;
     private SpriteRenderer spriteR;
 
     void Start () {

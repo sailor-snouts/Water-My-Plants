@@ -7,6 +7,7 @@ TagManager:
   - Ball
   - Deadzone
   - Plant
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 2796042385
+    locked: 0
+  - name: Debug
+    uniqueID: 2967036149
     locked: 0

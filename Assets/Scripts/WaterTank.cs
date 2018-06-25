@@ -36,6 +36,16 @@ public class WaterTank : MonoBehaviour
         this.SetFill();
     }
 
+    public int GetWaterAmount()
+    {
+        return this.current;
+    }
+
+    public int GetWaterCapacity()
+    {
+        return this.max;
+    }
+
     public bool HasWater()
     {
         return this.current > 0;
