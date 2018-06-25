@@ -18,10 +18,20 @@ public class FadeScenes : MonoBehaviour
     public Texture2D fadeOutTexture;
     public float fadeSpeed = 0.8f;
 
+    private bool isInProgress = true;
     private int drawDepth = -1000;
     private float alpha = 1.0f;
     private int fadeDir = -1;
     private AsyncOperation Async;
+
+    public void Update()
+    {
+        Debug.Log("fading volume: " + isInProgress);
+        if(isInProgress)
+        {
+            AudioListener.volume = 1f - alpha;
+        }
+    }
 
     void OnGUI()
     {
@@ -58,6 +68,7 @@ public class FadeScenes : MonoBehaviour
     public float BeginFade(int direction)
     {
         fadeDir = direction;
+        isInProgress = true;
         return fadeSpeed;
     }
 
@@ -107,6 +118,7 @@ public class FadeScenes : MonoBehaviour
         yield return StartCoroutine(WaitForRealSeconds(WaitFor));
         float fadeTime = BeginFade(1);
         yield return StartCoroutine(WaitForRealSeconds(fadeTime));
+        isInProgress = false;
         SceneManager.LoadScene(SceneName);
     }
 
@@ -123,7 +135,7 @@ public class FadeScenes : MonoBehaviour
         yield return StartCoroutine(WaitForRealSeconds(WaitFor));
         BeginFade(1);
         Async = SceneManager.LoadSceneAsync(SceneName);
-
+        isInProgress = false;
         yield return Async;
     }
 

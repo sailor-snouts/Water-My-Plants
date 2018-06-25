@@ -55,4 +55,4 @@ MonoBehaviour:
   ProgressBarBackground: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3,
     type: 3}
   fadeOutTexture: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3, type: 3}
-  fadeSpeed: 0.2
+  fadeSpeed: 0.1
