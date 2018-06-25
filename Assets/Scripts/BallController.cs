@@ -12,10 +12,12 @@ public class BallController : MonoBehaviour {
     private Rigidbody2D rb;
     private bool ballInPlay;
     private float stuckPositionY = 0.44f;
+    private ScoreBoard scoreBoard;
 
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
         this.tankScript = tank.GetComponent<WaterTank>();
+        this.scoreBoard = FindObjectOfType<ScoreBoard>();
     }
 	
 	void Update ()
@@ -81,6 +83,7 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
+                scoreBoard.ScoreHit();
             }
         }
     }
