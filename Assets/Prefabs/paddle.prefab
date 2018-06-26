@@ -180,9 +180,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4f9439b5ac134349967ae6ec7b1afe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballInitialVelocity: 500
+  ballInitialVelocity: 400
   paddle: {fileID: 4331368077631328}
   tank: {fileID: 0}
+  isAlive: 1
 --- !u!212 &212229014202127874
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -260,8 +261,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 777485951
-  m_SortingLayer: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c99e40a4cdd5b3646a7e16d3c5254f1f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

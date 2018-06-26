@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ScoreBoard : MonoBehaviour {
 
-    int score;
+    int score = 0;
     Text scoreText;
     [SerializeField] int pointsPerHit = 12;
 

@@ -26,7 +26,6 @@ public class FadeScenes : MonoBehaviour
 
     public void Update()
     {
-        Debug.Log("fading volume: " + isInProgress);
         if(isInProgress)
         {
             AudioListener.volume = 1f - alpha;

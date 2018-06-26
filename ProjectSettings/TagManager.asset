@@ -54,6 +54,9 @@ TagManager:
   - name: UI
     uniqueID: 2796042385
     locked: 0
+  - name: FlyingEntities
+    uniqueID: 1760991747
+    locked: 0
   - name: Debug
     uniqueID: 2967036149
     locked: 0
