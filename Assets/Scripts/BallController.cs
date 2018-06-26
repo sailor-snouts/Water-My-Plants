@@ -14,6 +14,8 @@ public class BallController : MonoBehaviour {
     private float stuckPositionY = 0.44f;
     private ScoreBoard scoreBoard;
 
+    [SerializeField] int pointsPerHit = 12;
+
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
         this.tankScript = tank.GetComponent<WaterTank>();
@@ -83,7 +85,7 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
-                scoreBoard.ScoreHit();
+                scoreBoard.ScoreHit(pointsPerHit);
             }
         }
     }
