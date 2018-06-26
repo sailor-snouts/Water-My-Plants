@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour {
     public TreeController[] trees;
     public GameObject cloudPrefab;
     private float proc = 10;
-    public float procCount = 0;
+    private float procCount = 0;
     private float percepitationRate = 0.5f;
 
 	void Start () {

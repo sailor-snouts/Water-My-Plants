@@ -1,15 +1,11 @@
 fileFormatVersion: 2
-guid: 411232a3d7567c147aa851627e096c1f
+guid: 85836fda1e7cd1747bcd9b68027c7221
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Trees_side_0
-    21300002: Trees_side_1
-    21300004: Trees_side_2
-    21300006: Trees_side_3
-    21300008: Trees_side_4
-    21300010: Trees_side_5
-    21300012: Trees_side_6
-    21300014: Trees_side_7
+    21300000: Top_Trees_0
+    21300002: Top_Trees_1
+    21300004: Top_Trees_2
+    21300006: Top_Trees_3
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -101,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Trees_side_0
+      name: Top_Trees_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 386
-        width: 244
-        height: 340
+        x: 35
+        y: 260
+        width: 358
+        height: 216
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,19 +111,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9827fd401da29a740b4cd6c20d813054
+      spriteID: cab8ce2a7f9d79b4484f7d7130249241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Trees_side_1
+      name: Top_Trees_1
       rect:
         serializedVersion: 2
-        x: 268
-        y: 386
-        width: 244
-        height: 340
+        x: 419
+        y: 260
+        width: 358
+        height: 216
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,59 +131,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bddd4b24ea98b924190e267fd5012d69
+      spriteID: beba19120382de64ca5cbad766ca0c5b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Trees_side_2
+      name: Top_Trees_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 386
-        width: 294
-        height: 369
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4b76c194ff492f49be6c6e96395ce99
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Trees_side_3
-      rect:
-        serializedVersion: 2
-        x: 806
-        y: 386
-        width: 294
-        height: 369
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a7f6fa4f8045ab4084019d67fde2559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Trees_side_4
-      rect:
-        serializedVersion: 2
-        x: 6
+        x: 30
         y: 17
-        width: 294
-        height: 369
+        width: 356
+        height: 216
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,19 +151,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcb853046ecf49f4d9ac2ff5b8c92e74
+      spriteID: 25d2c9fcbbfb61c4ca7838c9b87e0a72
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Trees_side_5
+      name: Top_Trees_3
       rect:
         serializedVersion: 2
-        x: 300
-        y: 17
-        width: 294
-        height: 369
+        x: 420
+        y: 18
+        width: 328
+        height: 218
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,47 +171,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c162f68d383b22843abfb8fc74c4228b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Trees_side_6
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 17
-        width: 244
-        height: 340
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b754491a6bc16a748ab65b03a8be79e0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Trees_side_7
-      rect:
-        serializedVersion: 2
-        x: 856
-        y: 17
-        width: 244
-        height: 340
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4dc069c671ca0dd47aca7fbffcd5f719
+      spriteID: 527111ff2a3bc2841a4b44f3fa7d0efd
       vertices: []
       indices: 
       edges: []
@@ -263,7 +179,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: cdf141a9bacf9354ea4e5fe1e5012197
+    spriteID: 92af088511e69594a8ab39ab799deb3a
     vertices: []
     indices: 
     edges: []

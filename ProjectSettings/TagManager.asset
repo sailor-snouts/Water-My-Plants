@@ -51,6 +51,9 @@ TagManager:
   - name: Entities
     uniqueID: 777485951
     locked: 0
+  - name: Enemy Entities
+    uniqueID: 4095368083
+    locked: 0
   - name: UI
     uniqueID: 2796042385
     locked: 0
