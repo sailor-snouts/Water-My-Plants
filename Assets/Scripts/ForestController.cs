@@ -9,7 +9,6 @@ public class ForestController : MonoBehaviour
     void Start()
     {
         
-        
     }
 
     void Update()
