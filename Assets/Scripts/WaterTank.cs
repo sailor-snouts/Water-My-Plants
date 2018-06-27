@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class WaterTank : MonoBehaviour
 {
-    public int max = 100;
+    public int max = 200;
     public Transform mask;
-    private int current = 100;
+    private int current = 200;
     private float fill = 1f;
     
     void Start ()

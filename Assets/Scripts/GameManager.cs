@@ -6,8 +6,9 @@ public class GameManager : MonoBehaviour {
     public FadeScenes fadeScenes;
     public BallController ball;
     public WaterTank tank;
-    public TreeController[] trees;
+    public ForestController forest;
     public GameObject cloudPrefab;
+    public int maxedOutTrees;
     private float proc = 10;
     private float procCount = 0;
     private float percepitationRate = 0.5f;
@@ -34,14 +35,13 @@ public class GameManager : MonoBehaviour {
             return;
         }
 
-        foreach(TreeController tree in this.trees)
+        if(!this.forest.CanTreesLevelUp())
         {
-            if(tree.CanLevelUp())
-            {
-                return;
-            }
+            this.fadeScenes.LoadSceneAsync("Win");
+            return;
         }
-        this.fadeScenes.LoadSceneAsync("Win");
-        return;
+
+        maxedOutTrees = this.forest.MaxedOutTrees();
+
     }
 }
