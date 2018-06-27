@@ -74,7 +74,7 @@ public class BallController : MonoBehaviour {
                 this.isAlive = false;
                 return;
             }
-            this.tankScript.UseWater(25);
+            this.tankScript.UseWater(20);
         }
 
         // Tree

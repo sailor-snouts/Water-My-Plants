@@ -5,38 +5,41 @@ using UnityEngine;
 public class ForestController : MonoBehaviour
 {
     private TreeController[] trees;
+    private int treeCount;
+    private int completedTrees;
+    private int giftedLevels = 10;
 
     void Start()
     {
         this.trees = this.GetComponentsInChildren<TreeController>();
+        this.treeCount = this.trees.Length;
+        this.completedTrees = 0;
+
+        for (int i = 0; i < this.giftedLevels; i++)
+        {
+            int luckyTree = Random.Range(1, this.treeCount) - 1;
+            this.trees[luckyTree].Start();
+            this.trees[luckyTree].LevelUp();
+        }
     }
 
+    public void TreeCompleted()
+    {
+        this.completedTrees = Mathf.Clamp(this.completedTrees+1, 1, this.treeCount);
+    }
+
+    public void TreeDowngraded()
+    {
+        this.completedTrees = Mathf.Clamp(this.completedTrees - 1, 0, this.treeCount);
+    }
 
     public bool CanTreesLevelUp()
     {
-        foreach (TreeController tree in trees)
-        {
-            if (tree.CanLevelUp())
-            {
-                return true;
-            }
-        }
-        
-        return false;
+        return this.completedTrees <= this.treeCount;
     }
 
-
-    public int MaxedOutTrees()
+    public float GetCompletion()
     {
-        int count = 0;
-        foreach (TreeController tree in trees)
-        {
-            if (!tree.CanLevelUp())
-            {
-                count++;
-            }
-        }
-
-        return count;
+        return Mathf.Clamp01((float) this.completedTrees / (float) this.treeCount);
     }
 }

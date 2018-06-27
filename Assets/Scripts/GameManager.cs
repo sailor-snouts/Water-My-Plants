@@ -8,10 +8,10 @@ public class GameManager : MonoBehaviour {
     public WaterTank tank;
     public ForestController forest;
     public GameObject cloudPrefab;
-    public int maxedOutTrees;
+    public SpriteRenderer grass;
     private float proc = 10;
     private float procCount = 0;
-    private float percepitationRate = 0.5f;
+    private float percepitationRate = 0.8f;
 
 	void Start () {
 		
@@ -28,8 +28,12 @@ public class GameManager : MonoBehaviour {
                 Instantiate(cloudPrefab);
             }
         }
+        
+        Color tmp = this.grass.color;
+        tmp.a = this.forest.GetCompletion();
+        this.grass.color = tmp;
 
-		if(!this.ball.isAlive)
+        if (!this.ball.isAlive)
         {
             this.fadeScenes.LoadSceneAsync("GameOver");
             return;
@@ -40,8 +44,5 @@ public class GameManager : MonoBehaviour {
             this.fadeScenes.LoadSceneAsync("Win");
             return;
         }
-
-        maxedOutTrees = this.forest.MaxedOutTrees();
-
     }
 }

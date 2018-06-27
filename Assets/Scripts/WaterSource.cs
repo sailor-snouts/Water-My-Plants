@@ -14,15 +14,11 @@ public class WaterSource : MonoBehaviour {
 
     void Update()
     {
-        if (this.amount <= 0)
+        if (this.amount < this.max)
         {
             Destroy(this.gameObject);
             return;
         }
-
-        Color tmp = this.spriteR.color;
-        tmp.a = (float) amount / (float) max;
-        this.spriteR.color = tmp;
     }
 
     public int GetWater(int capacity)
