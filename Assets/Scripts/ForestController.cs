@@ -4,16 +4,11 @@ using UnityEngine;
 
 public class ForestController : MonoBehaviour
 {
-    public TreeController[] trees;
+    private TreeController[] trees;
 
     void Start()
     {
-        
-    }
-
-    void Update()
-    {
-
+        this.trees = this.GetComponentsInChildren<TreeController>();
     }
 
 
@@ -26,7 +21,7 @@ public class ForestController : MonoBehaviour
                 return true;
             }
         }
-
+        
         return false;
     }
 
