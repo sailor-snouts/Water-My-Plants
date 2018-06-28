@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour {
     public ForestController forest;
     public GameObject cloudPrefab;
     public SpriteRenderer grass;
-    public AudioClip[] clips;
+    private AudioClip[] clips;
     private float proc = 8;
     private float procCount = 0;
     private float percepitationRate = 0.8f;

@@ -7,8 +7,8 @@ public class BallController : MonoBehaviour {
     public Transform paddle;
     public GameObject tank;
     public bool isAlive = true;
-    public AudioSource splash;
 
+    private AudioSource splash;
     private WaterTank tankScript;
     private Rigidbody2D rb;
     private bool ballInPlay;
