@@ -12,7 +12,7 @@ public class BallController : MonoBehaviour {
     private WaterTank tankScript;
     private Rigidbody2D rb;
     private bool ballInPlay;
-    private float stuckPositionY = 0.44f;
+    private float stuckPositionY = 0.7f;
     private ScoreBoard scoreBoard;
 
     [SerializeField] int pointsPerHit = 12;
@@ -96,6 +96,21 @@ public class BallController : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D col)
     {
+
+        // Tree
+        if (col.gameObject.tag == "Plant")
+        {
+            TreeController tree = col.gameObject.GetComponent<TreeController>();
+            if (this.tankScript.HasWater(tree.GetLevelCost()) && tree.CanLevelUp())
+            {
+                this.tankScript.UseWater(tree.GetLevelCost());
+                tree.LevelUp();
+                this.splash.Play();
+                scoreBoard.ScoreHit(pointsPerHit);
+            }
+
+        }
+
         // Water
         if (col.gameObject.tag == "Water")
         {

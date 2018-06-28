@@ -61,7 +61,7 @@ public class TreeController : MonoBehaviour
         if(this.level == this.levelCap)
         {
             this.forest.TreeCompleted();
-        }
+        }   
 
         this.spriteR.sprite = this.levels[this.level - 1];
     }

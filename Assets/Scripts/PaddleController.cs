@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PaddleController : MonoBehaviour {
-    public float minX = -9f;
-    public float maxX = -9f;
+    public float minX = -6f;
+    public float maxX = -6f;
     private float y;
     private float z;
     private Vector3 pointerPosition;
