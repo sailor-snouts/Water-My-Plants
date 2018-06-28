@@ -8,20 +8,25 @@ public class WaterTank : MonoBehaviour
     public Transform mask;
     private int current = 200;
     private float fill = 1f;
-    
+    private float yVelocity = 0.0F;
+    private float fillRate = 0.35f;
+
     void Start ()
     {
 		
 	}
+
+    
 	
 	void Update ()
     {
+        float amountToFillThisFrame = Mathf.SmoothDamp(this.mask.localScale.y, this.fill, ref yVelocity, fillRate);
+        this.mask.localScale = new Vector3(1, amountToFillThisFrame, 1);
 	}
 
     void SetFill()
     {
-        this.fill = (float) this.current / (float) this.max;
-        this.mask.localScale = new Vector3(1, this.fill, 1);
+        this.fill = Mathf.InverseLerp(0, this.max, this.current);
     }
 
     public void AddWater(int amount)
