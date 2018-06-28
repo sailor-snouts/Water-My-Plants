@@ -7,6 +7,7 @@ public class BallController : MonoBehaviour {
     public Transform paddle;
     public GameObject tank;
     public bool isAlive = true;
+    public AudioSource splash;
 
     private WaterTank tankScript;
     private Rigidbody2D rb;
@@ -20,6 +21,7 @@ public class BallController : MonoBehaviour {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
         this.tankScript = tank.GetComponent<WaterTank>();
         this.scoreBoard = FindObjectOfType<ScoreBoard>();
+        this.splash = gameObject.GetComponent<AudioSource>();
     }
 	
 	void Update ()
@@ -85,8 +87,10 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
+                this.splash.Play();
                 scoreBoard.ScoreHit(pointsPerHit);
             }
+
         }
     }
 
@@ -98,6 +102,11 @@ public class BallController : MonoBehaviour {
             WaterSource source = col.gameObject.GetComponent<WaterSource>();
             int empty = this.tankScript.GetWaterCapacity() - this.tankScript.GetWaterAmount();
             this.tankScript.AddWater(source.GetWater(empty));
+            if(empty > 0)
+            {
+
+                this.splash.Play();
+            }
         }
     }
 }

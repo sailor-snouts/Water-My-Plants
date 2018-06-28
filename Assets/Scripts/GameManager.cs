@@ -9,15 +9,19 @@ public class GameManager : MonoBehaviour {
     public ForestController forest;
     public GameObject cloudPrefab;
     public SpriteRenderer grass;
-    private float proc = 10;
+    public AudioClip[] clips;
+    private float proc = 8;
     private float procCount = 0;
     private float percepitationRate = 0.8f;
+    private AudioSource[] audio;
 
-	void Start () {
-		
+	void Start ()
+    {
+        this.audio = this.gameObject.GetComponentsInChildren<AudioSource>();
 	}
 	
 	void Update () {
+        // spawn some clouds and let it rain
         this.procCount += Time.deltaTime;
         if(this.procCount >= proc)
         {
@@ -29,16 +33,36 @@ public class GameManager : MonoBehaviour {
             }
         }
         
+        // show level progress
+        float completion = this.forest.GetCompletion(); ;
         Color tmp = this.grass.color;
-        tmp.a = this.forest.GetCompletion();
+        tmp.a = completion;
         this.grass.color = tmp;
 
+        int i = 0;
+        float clip_count = this.audio.Length;
+        foreach(AudioSource clip in this.audio)
+        {
+            i++;
+            float clip_rate = i / clip_count;
+            if (completion >= clip_rate || i == 1)
+            {
+                clip.volume = 1f;
+            }
+            else
+            {
+                clip.volume = 0f;
+            }
+        }
+
+        // lose
         if (!this.ball.isAlive)
         {
             this.fadeScenes.LoadSceneAsync("GameOver");
             return;
         }
 
+        // win
         if(!this.forest.CanTreesLevelUp())
         {
             this.fadeScenes.LoadSceneAsync("Win");
