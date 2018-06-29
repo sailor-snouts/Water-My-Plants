@@ -36,8 +36,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1590501678537686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.22999999, y: 0.17, z: 0.13476562}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_LocalPosition: {x: -1.5766357, y: -0.5645751, z: 0.13476562}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -54,9 +54,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.11572504, y: -0.093243}
+  m_Offset: {x: -0.046293616, y: 0.99459517}
   serializedVersion: 2
-  m_Radius: 1.1610245
+  m_Radius: 0.83698714
 --- !u!114 &114033953217058544
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -70,8 +70,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelCost: 1
   levels:
-  - {fileID: 21300018, guid: 6e75d9defd1a5fc45978f979ebdba2b3, type: 3}
-  - {fileID: 21300008, guid: 6e75d9defd1a5fc45978f979ebdba2b3, type: 3}
+  - {fileID: 21300000, guid: 275eb1365332129449b29d0e8e35d0fa, type: 3}
+  - {fileID: 21300002, guid: 275eb1365332129449b29d0e8e35d0fa, type: 3}
+  - {fileID: 21300004, guid: 275eb1365332129449b29d0e8e35d0fa, type: 3}
+  - {fileID: 21300006, guid: 275eb1365332129449b29d0e8e35d0fa, type: 3}
 --- !u!212 &212554942110842020
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -107,7 +109,7 @@ SpriteRenderer:
   m_SortingLayerID: 777485951
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300018, guid: 6e75d9defd1a5fc45978f979ebdba2b3, type: 3}
+  m_Sprite: {fileID: 21300006, guid: 275eb1365332129449b29d0e8e35d0fa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -68,7 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 052e63cd2efd59d40a7966e342db27c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelCost: 2
+  levelCost: 8
   levels:
   - {fileID: 21300006, guid: 85836fda1e7cd1747bcd9b68027c7221, type: 3}
   - {fileID: 21300004, guid: 85836fda1e7cd1747bcd9b68027c7221, type: 3}
