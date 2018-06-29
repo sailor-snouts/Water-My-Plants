@@ -13,10 +13,8 @@ public class WaterTank : MonoBehaviour
 
     void Start ()
     {
-		
+        this.current = this.max;
 	}
-
-    
 	
 	void Update ()
     {

@@ -54,15 +54,22 @@ public class TreeController : MonoBehaviour
     {
         level = Mathf.Clamp(level, 1, this.levelCap);
 
-        if (level < this.level)
+        if (this.level == level)
         {
-            this.forest.TreeDowngraded();
-        }
-        if (this.level == this.levelCap)
-        {
-            this.forest.TreeCompleted();
+            return;
         }
 
+        Debug.Log(this.level + "->" + level);
+        if (level == this.levelCap)
+        {
+            Debug.Log("maxed out");
+            this.forest.TreeCompleted();
+        }
+        else if (this.level == levelCap && level == this.levelCap -1)
+        {
+            Debug.Log("dying out");
+            this.forest.TreeDowngraded();
+        }
         this.level = level;      
         this.anim.SetInteger("Level", level);
         this.timeUntilDowngrade = this.level * this.downgradeTimer;

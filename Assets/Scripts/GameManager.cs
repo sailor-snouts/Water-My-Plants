@@ -7,11 +7,9 @@ public class GameManager : MonoBehaviour {
     public BallController ball;
     public WaterTank tank;
     public ForestController forest;
-    public GameObject cloudPrefab;
     public SpriteRenderer grass;
+    public ScoreBoard scoreBoard;
     private AudioClip[] clips;
-    private float proc = 8;
-    private float procCount = 0;
     private float percepitationRate = 0.8f;
     private AudioSource[] audio;
 
@@ -20,25 +18,19 @@ public class GameManager : MonoBehaviour {
         this.audio = this.gameObject.GetComponentsInChildren<AudioSource>();
 	}
 	
-	void Update () {
-        // spawn some clouds and let it rain
-        this.procCount += Time.deltaTime;
-        if(this.procCount >= proc)
-        {
-            this.procCount = 0f;
-            this.proc = Mathf.Clamp(this.proc + 5, 10, 30);
-            if (Random.Range(0f, 1f) <= this.percepitationRate)
-            {
-                Instantiate(cloudPrefab);
-            }
-        }
-        
+	void Update () {        
         // show level progress
         float completion = this.forest.GetCompletion(); ;
+        
+        // scoreboard
+        scoreBoard.SetScore(completion*100f);
+
+        // grass color
         Color tmp = this.grass.color;
         tmp.a = completion;
         this.grass.color = tmp;
 
+        // sounds
         int i = 0;
         float clip_count = this.audio.Length;
         foreach(AudioSource clip in this.audio)

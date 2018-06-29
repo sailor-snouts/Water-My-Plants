@@ -13,18 +13,14 @@ public class BallController : MonoBehaviour {
     private Rigidbody2D rb;
     private bool ballInPlay;
     private float stuckPositionY = 0.7f;
-    private ScoreBoard scoreBoard;
-
-    [SerializeField] int pointsPerHit = 12;
 
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
         this.tankScript = tank.GetComponent<WaterTank>();
-        this.scoreBoard = FindObjectOfType<ScoreBoard>();
         this.splash = gameObject.GetComponent<AudioSource>();
     }
 	
-	void Update ()
+	void FixedUpdate ()
     {
         // game started do nothing
         if (ballInPlay)
@@ -36,8 +32,10 @@ public class BallController : MonoBehaviour {
         Vector3 parent = this.paddle.position;
         parent.y += this.stuckPositionY;
         transform.position = parent;
+    }
 
-        // set free
+    private void Update()
+    {
         if (Input.GetButtonDown("Fire1"))
         {
             transform.parent = null;
@@ -88,7 +86,6 @@ public class BallController : MonoBehaviour {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
                 this.splash.Play();
-                scoreBoard.ScoreHit(pointsPerHit);
             }
 
         }
@@ -106,7 +103,6 @@ public class BallController : MonoBehaviour {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
                 this.splash.Play();
-                scoreBoard.ScoreHit(pointsPerHit);
             }
 
         }
