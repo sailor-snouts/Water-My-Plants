@@ -10,12 +10,12 @@ public class TreeController : MonoBehaviour
     private float downgradeTimer = 8f;
     private int levelCap = 4;
     private int level = 1;
-    private SpriteRenderer spriteR;
+    private Animator anim;
     private ForestController forest;
 
     public void Start () {
         this.levelCap = this.levels.Length;
-        this.spriteR = gameObject.GetComponent<SpriteRenderer>();
+        this.anim = gameObject.GetComponent<Animator>();
         this.forest = this.GetComponentInParent<ForestController>();
     }
 	
@@ -42,27 +42,29 @@ public class TreeController : MonoBehaviour
 
     public void LevelDown()
     {
-        if (this.level == this.levelCap)
-        {
-            this.forest.TreeDowngraded();
-        }
-
-        this.level = Mathf.Clamp(this.level - 1, 1, this.levelCap);
-        this.timeUntilDowngrade = this.level * this.downgradeTimer;
-
-        this.spriteR.sprite = this.levels[this.level - 1];
+        this.SetLevel(this.level - 1);
     }
 
     public void LevelUp()
     {
-        this.level = Mathf.Clamp(this.level+1, 1, this.levelCap);
-        this.timeUntilDowngrade = this.level * this.downgradeTimer;
+        this.SetLevel(this.level + 1);
+    }
 
-        if(this.level == this.levelCap)
+    private void SetLevel(int level)
+    {
+        level = Mathf.Clamp(level, 1, this.levelCap);
+
+        if (level < this.level)
+        {
+            this.forest.TreeDowngraded();
+        }
+        if (this.level == this.levelCap)
         {
             this.forest.TreeCompleted();
-        }   
+        }
 
-        this.spriteR.sprite = this.levels[this.level - 1];
+        this.level = level;      
+        this.anim.SetInteger("Level", level);
+        this.timeUntilDowngrade = this.level * this.downgradeTimer;
     }
 }
