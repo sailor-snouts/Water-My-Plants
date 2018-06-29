@@ -6,9 +6,11 @@ public class GameManager : MonoBehaviour {
     public FadeScenes fadeScenes;
     public BallController ball;
     public WaterTank tank;
-    public ForestController forest;
-    public SpriteRenderer grass;
     public ScoreBoard scoreBoard;
+    public ForestController forest;
+    public GameObject ground;
+    private int groundCount;
+    private SpriteRenderer[] spriteR;
     private AudioClip[] clips;
     private float percepitationRate = 0.8f;
     private AudioSource[] audio;
@@ -16,6 +18,8 @@ public class GameManager : MonoBehaviour {
 	void Start ()
     {
         this.audio = this.gameObject.GetComponentsInChildren<AudioSource>();
+        this.spriteR = this.ground.GetComponentsInChildren<SpriteRenderer>();
+        this.groundCount = this.spriteR.Length;
 	}
 	
 	void Update () {        
@@ -25,13 +29,26 @@ public class GameManager : MonoBehaviour {
         // scoreboard
         scoreBoard.SetScore(completion*100f);
 
-        // grass color
-        Color tmp = this.grass.color;
-        tmp.a = completion;
-        this.grass.color = tmp;
+        float delta = 1f / (float) this.groundCount;
+        int i = 0;
+        for (i = 0; i < this.groundCount; i++)
+        {
+            if(completion+delta > i*delta)
+            {
+                Color tmp = this.spriteR[i].color;
+                tmp.a = 1f;
+                this.spriteR[i].color = tmp;
+            }
+            else
+            {
+                Color tmp = this.spriteR[i].color;
+                tmp.a = 0f;
+                this.spriteR[i].color = tmp;
+            }
+        }
+
 
         // sounds
-        int i = 0;
         float clip_count = this.audio.Length;
         foreach(AudioSource clip in this.audio)
         {

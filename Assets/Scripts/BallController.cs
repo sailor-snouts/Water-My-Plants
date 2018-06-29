@@ -12,7 +12,7 @@ public class BallController : MonoBehaviour {
     private WaterTank tankScript;
     private Rigidbody2D rb;
     private bool ballInPlay;
-    private float stuckPositionY = 0.7f;
+    private float stuckPositionY = 0.75f;
 
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
