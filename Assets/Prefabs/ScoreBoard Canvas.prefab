@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 222359558734853746}
   - component: {fileID: 114604097891120480}
   - component: {fileID: 114068919671248122}
+  - component: {fileID: 114809539931607044}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -40,7 +41,6 @@ GameObject:
   - component: {fileID: 223237111506784546}
   - component: {fileID: 114293025009581748}
   - component: {fileID: 114744830827375946}
-  - component: {fileID: 114327956891228442}
   m_Layer: 5
   m_Name: ScoreBoard Canvas
   m_TagString: Untagged
@@ -80,17 +80,6 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
---- !u!114 &114327956891228442
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1574198708694538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3560a73ebb33d7c4680f6d5e25f10ccc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114604097891120480
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -103,7 +92,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.47058827, b: 0.9686275, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -111,9 +100,9 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 48
-    m_FontStyle: 0
+    m_Font: {fileID: 12800000, guid: bbd88c407e44afa4ea86afb6f5ba98ae, type: 3}
+    m_FontSize: 42
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
     m_MaxSize: 75
@@ -140,6 +129,20 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &114809539931607044
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1481926799087282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.3207547, g: 0.24787408, b: 0.15281239, a: 1}
+  m_EffectDistance: {x: 3.5, y: 1.55}
+  m_UseGraphicAlpha: 1
 --- !u!222 &222359558734853746
 CanvasRenderer:
   m_ObjectHideFlags: 1
@@ -198,8 +201,8 @@ RectTransform:
   m_Father: {fileID: 224359973344235248}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 840.3, y: 377.2}
-  m_SizeDelta: {x: 143.3, y: 66.3}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 840.2873, y: 376.98834}
+  m_SizeDelta: {x: -1775.9086, y: -1012.953}
   m_Pivot: {x: 0.5, y: 0.5}
