@@ -8,16 +8,15 @@ public class GameManager : MonoBehaviour {
     public WaterTank tank;
     public ScoreBoard scoreBoard;
     public ForestController forest;
+    public VoiceController voices;
     public GameObject ground;
     private int groundCount;
     private SpriteRenderer[] spriteR;
-    private AudioClip[] clips;
     private float percepitationRate = 0.8f;
-    private AudioSource[] audio;
+    
 
 	void Start ()
     {
-        this.audio = this.gameObject.GetComponentsInChildren<AudioSource>();
         this.spriteR = this.ground.GetComponentsInChildren<SpriteRenderer>();
         this.groundCount = this.spriteR.Length;
 	}
@@ -47,22 +46,7 @@ public class GameManager : MonoBehaviour {
             }
         }
 
-
-        // sounds
-        float clip_count = this.audio.Length;
-        foreach(AudioSource clip in this.audio)
-        {
-            i++;
-            float clip_rate = i / clip_count;
-            if (completion >= clip_rate || i == 1)
-            {
-                clip.volume = 1f;
-            }
-            else
-            {
-                clip.volume = 0f;
-            }
-        }
+        this.voices.HandleVoices(completion);
 
         // lose
         if (!this.ball.isAlive)
