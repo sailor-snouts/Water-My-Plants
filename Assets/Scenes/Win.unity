@@ -516,7 +516,7 @@ Prefab:
     - target: {fileID: 114466049795932508, guid: ccc966b2a0ef7504fab577ac0e0280a2,
         type: 2}
       propertyPath: sceneTarget
-      value: Credits
+      value: Title
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ccc966b2a0ef7504fab577ac0e0280a2, type: 2}
