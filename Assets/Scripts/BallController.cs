@@ -57,10 +57,6 @@ public class BallController : MonoBehaviour {
         // adjust theta based on where it hit the paddle
         if (col.gameObject.tag == "Player")
         {
-            if(col.gameObject.transform.position.y > this.transform.position.y)
-            {
-                return;
-            }
             this.rb.velocity = Vector3.zero;
             Vector3 point = col.contacts[0].point;
             BoxCollider2D box = col.gameObject.gameObject.GetComponent<BoxCollider2D>();
