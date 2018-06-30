@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212664810016904962}
   - component: {fileID: 114271569387626932}
   - component: {fileID: 58227572797354552}
+  - component: {fileID: 95318316932340216}
   m_Layer: 0
   m_Name: TreeSide
   m_TagString: Plant
@@ -57,6 +58,24 @@ CircleCollider2D:
   m_Offset: {x: 0.5566929, y: 0.79910386}
   serializedVersion: 2
   m_Radius: 0.6591646
+--- !u!95 &95318316932340216
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1187246551537306}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a1b17d806516b415287f6a908940cada, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &114271569387626932
 MonoBehaviour:
   m_ObjectHideFlags: 1
