@@ -59,8 +59,8 @@ public class GameManager : MonoBehaviour {
         // win
         if(prettyCompletion == 100f)
         {
-            this.fadeScenes.LoadSceneAsync("Win");
-            return;
+            //this.fadeScenes.LoadSceneAsync("Win");
+            //return;
         }
     }
 }

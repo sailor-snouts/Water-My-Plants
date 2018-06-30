@@ -105,8 +105,6 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
-                this.audio.clip = this.tree;
-                this.audio.Play();
             }
 
         }
