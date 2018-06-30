@@ -8,7 +8,9 @@ public class BallController : MonoBehaviour {
     public GameObject tank;
     public bool isAlive = true;
 
-    private AudioSource splash;
+    public AudioSource audio;
+    public AudioClip splash;
+    public AudioClip tree;
     private WaterTank tankScript;
     private Rigidbody2D rb;
     private bool ballInPlay;
@@ -17,7 +19,7 @@ public class BallController : MonoBehaviour {
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
         this.tankScript = tank.GetComponent<WaterTank>();
-        this.splash = gameObject.GetComponent<AudioSource>();
+        this.audio = gameObject.GetComponent<AudioSource>();
     }
 	
 	void FixedUpdate ()
@@ -36,7 +38,7 @@ public class BallController : MonoBehaviour {
 
     private void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (!ballInPlay && Input.GetButtonDown("Fire1"))
         {
             transform.parent = null;
             ballInPlay = true;
@@ -55,6 +57,10 @@ public class BallController : MonoBehaviour {
         // adjust theta based on where it hit the paddle
         if (col.gameObject.tag == "Player")
         {
+            if(col.gameObject.transform.position.y > this.transform.position.y)
+            {
+                return;
+            }
             this.rb.velocity = Vector3.zero;
             Vector3 point = col.contacts[0].point;
             BoxCollider2D box = col.gameObject.gameObject.GetComponent<BoxCollider2D>();
@@ -85,7 +91,8 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
-                this.splash.Play();
+                this.audio.clip = this.tree;
+                this.audio.Play();
             }
 
         }
@@ -102,7 +109,8 @@ public class BallController : MonoBehaviour {
             {
                 this.tankScript.UseWater(tree.GetLevelCost());
                 tree.LevelUp();
-                this.splash.Play();
+                this.audio.clip = this.tree;
+                this.audio.Play();
             }
 
         }
@@ -115,8 +123,8 @@ public class BallController : MonoBehaviour {
             this.tankScript.AddWater(source.GetWater(empty));
             if(empty > 0)
             {
-
-                this.splash.Play();
+                this.audio.clip = this.splash;
+                this.audio.Play();
             }
         }
     }

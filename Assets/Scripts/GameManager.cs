@@ -24,9 +24,10 @@ public class GameManager : MonoBehaviour {
 	void Update () {        
         // show level progress
         float completion = this.forest.GetCompletion(); ;
-        
+        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 100f + 25f, 0f, 100f));
+
         // scoreboard
-        scoreBoard.SetScore(completion*100f);
+        scoreBoard.SetScore(prettyCompletion);
 
         float delta = 1f / (float) this.groundCount;
         int i = 0;
@@ -56,7 +57,7 @@ public class GameManager : MonoBehaviour {
         }
 
         // win
-        if(!this.forest.CanTreesLevelUp())
+        if(prettyCompletion == 100f)
         {
             this.fadeScenes.LoadSceneAsync("Win");
             return;
