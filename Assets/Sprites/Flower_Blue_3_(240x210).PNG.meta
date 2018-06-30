@@ -1,0 +1,2006 @@
+fileFormatVersion: 2
+guid: 45f2f5c3468c04b66bd082725180c6c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flower_Blue_3_(240x210)_0
+    21300002: Flower_Blue_3_(240x210)_1
+    21300004: Flower_Blue_3_(240x210)_2
+    21300006: Flower_Blue_3_(240x210)_3
+    21300008: Flower_Blue_3_(240x210)_4
+    21300010: Flower_Blue_3_(240x210)_5
+    21300012: Flower_Blue_3_(240x210)_6
+    21300014: Flower_Blue_3_(240x210)_7
+    21300016: Flower_Blue_3_(240x210)_8
+    21300018: Flower_Blue_3_(240x210)_9
+    21300020: Flower_Blue_3_(240x210)_10
+    21300022: Flower_Blue_3_(240x210)_11
+    21300024: Flower_Blue_3_(240x210)_12
+    21300026: Flower_Blue_3_(240x210)_13
+    21300028: Flower_Blue_3_(240x210)_14
+    21300030: Flower_Blue_3_(240x210)_15
+    21300032: Flower_Blue_3_(240x210)_16
+    21300034: Flower_Blue_3_(240x210)_17
+    21300036: Flower_Blue_3_(240x210)_18
+    21300038: Flower_Blue_3_(240x210)_19
+    21300040: Flower_Blue_3_(240x210)_20
+    21300042: Flower_Blue_3_(240x210)_21
+    21300044: Flower_Blue_3_(240x210)_22
+    21300046: Flower_Blue_3_(240x210)_23
+    21300048: Flower_Blue_3_(240x210)_24
+    21300050: Flower_Blue_3_(240x210)_25
+    21300052: Flower_Blue_3_(240x210)_26
+    21300054: Flower_Blue_3_(240x210)_27
+    21300056: Flower_Blue_3_(240x210)_28
+    21300058: Flower_Blue_3_(240x210)_29
+    21300060: Flower_Blue_3_(240x210)_30
+    21300062: Flower_Blue_3_(240x210)_31
+    21300064: Flower_Blue_3_(240x210)_32
+    21300066: Flower_Blue_3_(240x210)_33
+    21300068: Flower_Blue_3_(240x210)_34
+    21300070: Flower_Blue_3_(240x210)_35
+    21300072: Flower_Blue_3_(240x210)_36
+    21300074: Flower_Blue_3_(240x210)_37
+    21300076: Flower_Blue_3_(240x210)_38
+    21300078: Flower_Blue_3_(240x210)_39
+    21300080: Flower_Blue_3_(240x210)_40
+    21300082: Flower_Blue_3_(240x210)_41
+    21300084: Flower_Blue_3_(240x210)_42
+    21300086: Flower_Blue_3_(240x210)_43
+    21300088: Flower_Blue_3_(240x210)_44
+    21300090: Flower_Blue_3_(240x210)_45
+    21300092: Flower_Blue_3_(240x210)_46
+    21300094: Flower_Blue_3_(240x210)_47
+    21300096: Flower_Blue_3_(240x210)_48
+    21300098: Flower_Blue_3_(240x210)_49
+    21300100: Flower_Blue_3_(240x210)_50
+    21300102: Flower_Blue_3_(240x210)_51
+    21300104: Flower_Blue_3_(240x210)_52
+    21300106: Flower_Blue_3_(240x210)_53
+    21300108: Flower_Blue_3_(240x210)_54
+    21300110: Flower_Blue_3_(240x210)_55
+    21300112: Flower_Blue_3_(240x210)_56
+    21300114: Flower_Blue_3_(240x210)_57
+    21300116: Flower_Blue_3_(240x210)_58
+    21300118: Flower_Blue_3_(240x210)_59
+    21300120: Flower_Blue_3_(240x210)_60
+    21300122: Flower_Blue_3_(240x210)_61
+    21300124: Flower_Blue_3_(240x210)_62
+    21300126: Flower_Blue_3_(240x210)_63
+    21300128: Flower_Blue_3_(240x210)_64
+    21300130: Flower_Blue_3_(240x210)_65
+    21300132: Flower_Blue_3_(240x210)_66
+    21300134: Flower_Blue_3_(240x210)_67
+    21300136: Flower_Blue_3_(240x210)_68
+    21300138: Flower_Blue_3_(240x210)_69
+    21300140: Flower_Blue_3_(240x210)_70
+    21300142: Flower_Blue_3_(240x210)_71
+    21300144: Flower_Blue_3_(240x210)_72
+    21300146: Flower_Blue_3_(240x210)_73
+    21300148: Flower_Blue_3_(240x210)_74
+    21300150: Flower_Blue_3_(240x210)_75
+    21300152: Flower_Blue_3_(240x210)_76
+    21300154: Flower_Blue_3_(240x210)_77
+    21300156: Flower_Blue_3_(240x210)_78
+    21300158: Flower_Blue_3_(240x210)_79
+    21300160: Flower_Blue_3_(240x210)_80
+    21300162: Flower_Blue_3_(240x210)_81
+    21300164: Flower_Blue_3_(240x210)_82
+    21300166: Flower_Blue_3_(240x210)_83
+    21300168: Flower_Blue_3_(240x210)_84
+    21300170: Flower_Blue_3_(240x210)_85
+    21300172: Flower_Blue_3_(240x210)_86
+    21300174: Flower_Blue_3_(240x210)_87
+    21300176: Flower_Blue_3_(240x210)_88
+    21300178: Flower_Blue_3_(240x210)_89
+    21300180: Flower_Blue_3_(240x210)_90
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36b8eb86422445c82308923d6a6f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2d075111934391a44a52b5ee40259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64278e52fd24467ab5058ce95e6b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88141bdbec105499693dc47254fcccd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9e95929036476dbbd62bfbbe6d80b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387a5e47567647a5a163abbf8baf022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6eb718530e469bac46a5b3b22eb42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7504ef23856f4a9da034ea74ba316c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651be0019e2d4f91a77bdec51dd6f9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1890
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd712023b89413ebc687d243fd2c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a261831b8a6e4f72873442191bd0e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab0c8ac055643688ab43d338202dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae3e63144b1426c967250e7d927e5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadeb11ab1c144b02b53adf6ee37c0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec0d202c8da44d4aeb717708aa14f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03582c00f65ab43b7902e7eceb107593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d5ad7ba65394a2a85591e4eaf723b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd08242fc9bc4b0d8ba55f8a8082a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be8dcc027b84da787e026d64e46b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b776ada0f74b1f96d0e4e7cd30473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01905e6c1861340f2b5c3606c2baa009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a475a84f7e485d9c849774397ae1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9024f71e359548d5a07ae06259daf2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9043a0a452c9470486b256d059c11f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d537dedc7fd6444b962f76f98a3450c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7db5b47f66e49f5a3a1a96bf34e095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d411a5aa12424aada5f006004656b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6b7b3f021a40ecb245a3e8d43068e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69317f97aaa24a2aae6138e099545b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1470
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98bd2c3a7154f2e87360906584a8b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638ef74d19e2e411e94d8d6ae9d23f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f66ee9205b4b45b3e82bbd8a89290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138475445bd7e46a1aa51b12d26740a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a32509b43048fa8d0b8a145bc692e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad8c2d983d64445ace88a49b335f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e01078165249139f8763a721c2c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14dae485bb44032a2e05f5e65508c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6607a151db46ee83643aa7f1e1150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c85971c4244bbd889e3cba379b841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1260
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6738c287d091244f789a9e12008249aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b985521d64c45fda0163cd0a84fec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17a0ad9d6834850a86c8ecbddb5a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073160707f3043fca9ed993869f5660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabcb12999d746b2bc73dd41881cb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cb44c64e0546faab657b2ccb89e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c535f3e9d74b1e8913fa3d444e72f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd14dd20d33e4d3f93bf241e431be2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70516217311484c8042cb2fb9db258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094f80cc3ff740a383377531130c519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8bb86367084fd98d637ac200c9dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b21d0c5b4145ccb2365832b53dde8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b1c1b3e37a45d59341ecde4bfa550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ff14249c8247038e015cd98c9bdc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427d207063664bc6b86b0c612c429e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a973ea9de946dba2383a728d6945d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de54dc3f9f7947c3831baa5cd4fcb0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445a2ca36ec54934aa4624ab74685e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d462b98d25941bfad70e1169232f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb0dddf55bc458cbc575b0adae472d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_59
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94785fae524f47d589ab25b89793995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7578c6cca849c4a4c288db60c648a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc2e0d0f8ef40679c1c3335fc92d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7a96dab55b4e2b9427232b2484202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193be0b72bf5464aa22da5948c4e1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570fe5aaed2354312a189cb9e6bf868e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c80f7471e74c71acff00b334205b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca177510d124c6198d9c3684965141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163d9704ff954042bc1554e414b8a9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_68
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179a25db33d746feb3fd1c9f81a028d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_69
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e23c4e62fe423ebd4cb1c132e13e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657555ba48a043c9a70111364b2164d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58f7460f52642588952a2c19935785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317bf74d48f9419dbcb4c519c10c547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071d151251e04a83aa086b411b333ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e77bc79594e49d996e8d29508bc907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c8157bc2c6475aa47262b533d2db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5db73bb4dd04ea7927a1aa616d6136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896fd52fa45849d69e03733df8b189b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e33612bbc034295ba76b550a81ac20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_79
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0ce702a23e6453d8884720ce9167d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6623f70f81349808afb3e8f88a69a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321a6373f5a14ec889973ca3e156b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43de77cf204e429f9c8d10c20579aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab6d81fe12c4400ae29992644f5f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20393ef9cb7e41e2a31ff02629e2a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56ad2c467124788b8a65a6ef7ab952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20331e67766ec4b25aadbc3de9e84f1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d069dd4a4e424ca399d7f2d920767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcf6fa97bb94bc28f1071e0d00f0ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae4b3eb8bbc94206a706c71090f5b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Blue_3_(240x210)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6675bbd4084398b3f566e78f8347c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 203fba1102cb94cca898e77b172bf7f1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
