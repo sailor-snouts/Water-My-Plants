@@ -1,0 +1,1975 @@
+fileFormatVersion: 2
+guid: 7dc9a7b1c5aac4cc6b99540f49d09a91
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flower_HotPink_3_(284x250)_0
+    21300002: Flower_HotPink_3_(284x250)_1
+    21300004: Flower_HotPink_3_(284x250)_2
+    21300006: Flower_HotPink_3_(284x250)_3
+    21300008: Flower_HotPink_3_(284x250)_4
+    21300010: Flower_HotPink_3_(284x250)_5
+    21300012: Flower_HotPink_3_(284x250)_6
+    21300014: Flower_HotPink_3_(284x250)_7
+    21300016: Flower_HotPink_3_(284x250)_8
+    21300018: Flower_HotPink_3_(284x250)_9
+    21300020: Flower_HotPink_3_(284x250)_10
+    21300022: Flower_HotPink_3_(284x250)_11
+    21300024: Flower_HotPink_3_(284x250)_12
+    21300026: Flower_HotPink_3_(284x250)_13
+    21300028: Flower_HotPink_3_(284x250)_14
+    21300030: Flower_HotPink_3_(284x250)_15
+    21300032: Flower_HotPink_3_(284x250)_16
+    21300034: Flower_HotPink_3_(284x250)_17
+    21300036: Flower_HotPink_3_(284x250)_18
+    21300038: Flower_HotPink_3_(284x250)_19
+    21300040: Flower_HotPink_3_(284x250)_20
+    21300042: Flower_HotPink_3_(284x250)_21
+    21300044: Flower_HotPink_3_(284x250)_22
+    21300046: Flower_HotPink_3_(284x250)_23
+    21300048: Flower_HotPink_3_(284x250)_24
+    21300050: Flower_HotPink_3_(284x250)_25
+    21300052: Flower_HotPink_3_(284x250)_26
+    21300054: Flower_HotPink_3_(284x250)_27
+    21300056: Flower_HotPink_3_(284x250)_28
+    21300058: Flower_HotPink_3_(284x250)_29
+    21300060: Flower_HotPink_3_(284x250)_30
+    21300062: Flower_HotPink_3_(284x250)_31
+    21300064: Flower_HotPink_3_(284x250)_32
+    21300066: Flower_HotPink_3_(284x250)_33
+    21300068: Flower_HotPink_3_(284x250)_34
+    21300070: Flower_HotPink_3_(284x250)_35
+    21300072: Flower_HotPink_3_(284x250)_36
+    21300074: Flower_HotPink_3_(284x250)_37
+    21300076: Flower_HotPink_3_(284x250)_38
+    21300078: Flower_HotPink_3_(284x250)_39
+    21300080: Flower_HotPink_3_(284x250)_40
+    21300082: Flower_HotPink_3_(284x250)_41
+    21300084: Flower_HotPink_3_(284x250)_42
+    21300086: Flower_HotPink_3_(284x250)_43
+    21300088: Flower_HotPink_3_(284x250)_44
+    21300090: Flower_HotPink_3_(284x250)_45
+    21300092: Flower_HotPink_3_(284x250)_46
+    21300094: Flower_HotPink_3_(284x250)_47
+    21300096: Flower_HotPink_3_(284x250)_48
+    21300098: Flower_HotPink_3_(284x250)_49
+    21300100: Flower_HotPink_3_(284x250)_50
+    21300102: Flower_HotPink_3_(284x250)_51
+    21300104: Flower_HotPink_3_(284x250)_52
+    21300106: Flower_HotPink_3_(284x250)_53
+    21300108: Flower_HotPink_3_(284x250)_54
+    21300110: Flower_HotPink_3_(284x250)_55
+    21300112: Flower_HotPink_3_(284x250)_56
+    21300114: Flower_HotPink_3_(284x250)_57
+    21300116: Flower_HotPink_3_(284x250)_58
+    21300118: Flower_HotPink_3_(284x250)_59
+    21300120: Flower_HotPink_3_(284x250)_60
+    21300122: Flower_HotPink_3_(284x250)_61
+    21300124: Flower_HotPink_3_(284x250)_62
+    21300126: Flower_HotPink_3_(284x250)_63
+    21300128: Flower_HotPink_3_(284x250)_64
+    21300130: Flower_HotPink_3_(284x250)_65
+    21300132: Flower_HotPink_3_(284x250)_66
+    21300134: Flower_HotPink_3_(284x250)_67
+    21300136: Flower_HotPink_3_(284x250)_68
+    21300138: Flower_HotPink_3_(284x250)_69
+    21300140: Flower_HotPink_3_(284x250)_70
+    21300142: Flower_HotPink_3_(284x250)_71
+    21300144: Flower_HotPink_3_(284x250)_72
+    21300146: Flower_HotPink_3_(284x250)_73
+    21300148: Flower_HotPink_3_(284x250)_74
+    21300150: Flower_HotPink_3_(284x250)_75
+    21300152: Flower_HotPink_3_(284x250)_76
+    21300154: Flower_HotPink_3_(284x250)_77
+    21300156: Flower_HotPink_3_(284x250)_78
+    21300158: Flower_HotPink_3_(284x250)_79
+    21300160: Flower_HotPink_3_(284x250)_80
+    21300162: Flower_HotPink_3_(284x250)_81
+    21300164: Flower_HotPink_3_(284x250)_82
+    21300166: Flower_HotPink_3_(284x250)_83
+    21300168: Flower_HotPink_3_(284x250)_84
+    21300170: Flower_HotPink_3_(284x250)_85
+    21300172: Flower_HotPink_3_(284x250)_86
+    21300174: Flower_HotPink_3_(284x250)_87
+    21300176: Flower_HotPink_3_(284x250)_88
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe0aee47ecad6408538cac4280932f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16bd0a636f32d44a35a29da0dc061a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf612473f30975418cc107121f520bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7da7fb6bd5b2a148ab3b2087c6e8c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054e6b7001b564409362812d9ffd9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_5
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c475b9026f2034894709f9776f9f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe506ded37ac642b453aa002cde713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_7
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72e4970346da849a44e5b7e08a84c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_8
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecba7067db0c254c9f866255b8090de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_9
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e29c912c2c69448c6cb216fca7d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0048036c26fd784db2a7243bb694f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4fc3e71821dea48a8866600d5cdca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30a600655638c40b54ee5ab2589f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c66abbdb7d5d42ac8536329ce6d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_14
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fa39bc082e294aaad84698cd83a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_15
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccaa3210c3b9194cb1ee39da7216dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4326ba5613fd9f469705ae732c72e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_17
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a2b2d1ad2a2948acad4c417a0fed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_18
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c9b7724b74cf4c96c92f16aa2cc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_19
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c76c18be950a142bb162f7dc0b50ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002cf73192cd8944960a7df9734aa30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fccbca5c3794334e8fe995d7166eed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d78a94503aa4d459a1e12e034d20c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107cb25aadccaa4d91bf396d5d9e47f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_24
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d387af64d43f54ebde8f56014a3bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_25
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913d4baeb023e046824a2fdaf6c9fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c391ab6d520794ebe1d3209862d8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_27
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5ba9c224c9474b80da2f07c0d4960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_28
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b114570b7588c544b0f3a6837b4b8cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_29
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514054b6c7ff62b46bc9055f845e3f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa00de35fa25d49adfdbda67fc6f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3239dd3f4315c84ba676e69642a4c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484ea614538d5141b0fa532857a1219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d149f1f9749f44ab05254bd1b1592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9f0c3c1e561b418936d5c958fbe95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_35
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88704cf913130274a97d23dbd7f3de0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_36
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1fcbeac40c9c4eae2d2625541e16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_37
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd424eeb1ce9661469802a6a104365ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_38
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f70178192565ea4cbb8038236c61b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_39
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf7491aa6b917469cb41a139f137d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6525320e3c4a9e1469b7286a309bbe38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e942a2f00ca09043b2221f0d1313bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cddfc6fc01667d43a202c366a476995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ef9cc91378e1489dfa853198b92ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_44
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c717e4732f2b904bb1294b630b65256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_45
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d414f7ffeeb442a3a1478bb1e6ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_46
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4508f2ef56ffd7345b6f99b894880256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_47
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7083e77215ceee4fa68fdc1deea4a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_48
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340847183484cf94094b9c70dcc561b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_49
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1000
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e32aca1573fc4241ba6c51f06de2af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ff0e15d2a8e746aa05e08b576cce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c90f07325cbf54fa730ef75a823c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9b469c9403204889271a1eeb73d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_53
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ec16accf6a6a4da54cc7e7a069bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_54
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2731ce4e55de143be6f78f315dc47d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_55
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c2462b42b518348b734b124f1298f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_56
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d285d07dd49645b386a9beaab7bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_57
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002781fee032d648b564a419a35e848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_58
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb2dd31ed51dd4eb672df90e7a23f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_59
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 750
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503600dac29d23b4aa6e4efe39c2ff64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541c20d8216fe2419f7484b9c61aba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477adef761fd7c34088628f5fb79947b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_62
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d90fe5c6454e4abdb65f53fb6a06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_63
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4896ca4c7f30641935dc8065175afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_64
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce214d6c133d4cb48a1db89d40df1755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_65
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db707072ef35f46bcb3e15fda5489e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_66
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f6781a7e97ed4d865ce5de366acec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_67
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f58601decb254da6c1e86a2610029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_68
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc61a9f083e9a4689e5d8e75c16b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_69
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 500
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437832784c5aa0744a58a343797f95b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa534ca79607fe49b217b02883df241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_71
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7373f88a6634428958721c4818da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_72
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c463b209906ae459d48428f008b391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_73
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc752613d5e2e4d965ebc31b065e2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_74
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d322668ec6bea43850a023ea6ecc1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_75
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17e1b4fc654ea4289cd3eea81b06ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_76
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97178131b89a9a94d893932dddc57e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_77
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28802bfd78c1e24c93a27253564938d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_78
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5a9b15b8fb304ca2bd359b731eb6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_79
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 250
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840730f8db833c419e17ab8f71ac8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97567be62ad7884b9afc9cfde479b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_81
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17ef414f0e323419fc5a17e5d6a03d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_82
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2756d756cc08947bd3b1b9261638c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_83
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3198ac5e5261294fb81a303bab2280a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_84
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e82ced3bfa304283fae7ff8f9b979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_85
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e83f0a7ede09409f31c2e86cde111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_86
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f70a9c6cfa8d74096568d2c4a41a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_87
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b85cc717e124454eab1c3ccc0ca2af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_HotPink_3_(284x250)_88
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 284
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c83c7f31454f4f8c7157d2a7fc08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 788ccf01878bcdb40ad00d518d45d8d8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

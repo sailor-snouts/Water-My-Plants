@@ -1,7 +1,173 @@
 fileFormatVersion: 2
 guid: 32583bba251ca4d01bfbecd117749e68
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Water_Meter_Bubbles_0
+    21300002: Water_Meter_Bubbles_1
+    21300004: Water_Meter_Bubbles_2
+    21300006: Water_Meter_Bubbles_3
+    21300008: Water_Meter_Bubbles_4
+    21300010: Water_Meter_Bubbles_5
+    21300012: Water_Meter_Bubbles_6
+    21300014: Water_Meter_Bubbles_7
+    21300016: Water_Meter_Bubbles_8
+    21300018: Water_Meter_Bubbles_9
+    21300020: Water_Meter_Bubbles_10
+    21300022: Water_Meter_Bubbles_11
+    21300024: Water_Meter_Bubbles_12
+    21300026: Water_Meter_Bubbles_13
+    21300028: Water_Meter_Bubbles_14
+    21300030: Water_Meter_Bubbles_15
+    21300032: Water_Meter_Bubbles_16
+    21300034: Water_Meter_Bubbles_17
+    21300036: Water_Meter_Bubbles_18
+    21300038: Water_Meter_Bubbles_19
+    21300040: Water_Meter_Bubbles_20
+    21300042: Water_Meter_Bubbles_21
+    21300044: Water_Meter_Bubbles_22
+    21300046: Water_Meter_Bubbles_23
+    21300048: Water_Meter_Bubbles_24
+    21300050: Water_Meter_Bubbles_25
+    21300052: Water_Meter_Bubbles_26
+    21300054: Water_Meter_Bubbles_27
+    21300056: Water_Meter_Bubbles_28
+    21300058: Water_Meter_Bubbles_29
+    21300060: Water_Meter_Bubbles_30
+    21300062: Water_Meter_Bubbles_31
+    21300064: Water_Meter_Bubbles_32
+    21300066: Water_Meter_Bubbles_33
+    21300068: Water_Meter_Bubbles_34
+    21300070: Water_Meter_Bubbles_35
+    21300072: Water_Meter_Bubbles_36
+    21300074: Water_Meter_Bubbles_37
+    21300076: Water_Meter_Bubbles_38
+    21300078: Water_Meter_Bubbles_39
+    21300080: Water_Meter_Bubbles_40
+    21300082: Water_Meter_Bubbles_41
+    21300084: Water_Meter_Bubbles_42
+    21300086: Water_Meter_Bubbles_43
+    21300088: Water_Meter_Bubbles_44
+    21300090: Water_Meter_Bubbles_45
+    21300092: Water_Meter_Bubbles_46
+    21300094: Water_Meter_Bubbles_47
+    21300096: Water_Meter_Bubbles_48
+    21300098: Water_Meter_Bubbles_49
+    21300100: Water_Meter_Bubbles_50
+    21300102: Water_Meter_Bubbles_51
+    21300104: Water_Meter_Bubbles_52
+    21300106: Water_Meter_Bubbles_53
+    21300108: Water_Meter_Bubbles_54
+    21300110: Water_Meter_Bubbles_55
+    21300112: Water_Meter_Bubbles_56
+    21300114: Water_Meter_Bubbles_57
+    21300116: Water_Meter_Bubbles_58
+    21300118: Water_Meter_Bubbles_59
+    21300120: Water_Meter_Bubbles_60
+    21300122: Water_Meter_Bubbles_61
+    21300124: Water_Meter_Bubbles_62
+    21300126: Water_Meter_Bubbles_63
+    21300128: Water_Meter_Bubbles_64
+    21300130: Water_Meter_Bubbles_65
+    21300132: Water_Meter_Bubbles_66
+    21300134: Water_Meter_Bubbles_67
+    21300136: Water_Meter_Bubbles_68
+    21300138: Water_Meter_Bubbles_69
+    21300140: Water_Meter_Bubbles_70
+    21300142: Water_Meter_Bubbles_71
+    21300144: Water_Meter_Bubbles_72
+    21300146: Water_Meter_Bubbles_73
+    21300148: Water_Meter_Bubbles_74
+    21300150: Water_Meter_Bubbles_75
+    21300152: Water_Meter_Bubbles_76
+    21300154: Water_Meter_Bubbles_77
+    21300156: Water_Meter_Bubbles_78
+    21300158: Water_Meter_Bubbles_79
+    21300160: Water_Meter_Bubbles_80
+    21300162: Water_Meter_Bubbles_81
+    21300164: Water_Meter_Bubbles_82
+    21300166: Water_Meter_Bubbles_83
+    21300168: Water_Meter_Bubbles_84
+    21300170: Water_Meter_Bubbles_85
+    21300172: Water_Meter_Bubbles_86
+    21300174: Water_Meter_Bubbles_87
+    21300176: Water_Meter_Bubbles_88
+    21300178: Water_Meter_Bubbles_89
+    21300180: Water_Meter_Bubbles_90
+    21300182: Water_Meter_Bubbles_91
+    21300184: Water_Meter_Bubbles_92
+    21300186: Water_Meter_Bubbles_93
+    21300188: Water_Meter_Bubbles_94
+    21300190: Water_Meter_Bubbles_95
+    21300192: Water_Meter_Bubbles_96
+    21300194: Water_Meter_Bubbles_97
+    21300196: Water_Meter_Bubbles_98
+    21300198: Water_Meter_Bubbles_99
+    21300200: Water_Meter_Bubbles_100
+    21300202: Water_Meter_Bubbles_101
+    21300204: Water_Meter_Bubbles_102
+    21300206: Water_Meter_Bubbles_103
+    21300208: Water_Meter_Bubbles_104
+    21300210: Water_Meter_Bubbles_105
+    21300212: Water_Meter_Bubbles_106
+    21300214: Water_Meter_Bubbles_107
+    21300216: Water_Meter_Bubbles_108
+    21300218: Water_Meter_Bubbles_109
+    21300220: Water_Meter_Bubbles_110
+    21300222: Water_Meter_Bubbles_111
+    21300224: Water_Meter_Bubbles_112
+    21300226: Water_Meter_Bubbles_113
+    21300228: Water_Meter_Bubbles_114
+    21300230: Water_Meter_Bubbles_115
+    21300232: Water_Meter_Bubbles_116
+    21300234: Water_Meter_Bubbles_117
+    21300236: Water_Meter_Bubbles_118
+    21300238: Water_Meter_Bubbles_119
+    21300240: Water_Meter_Bubbles_120
+    21300242: Water_Meter_Bubbles_121
+    21300244: Water_Meter_Bubbles_122
+    21300246: Water_Meter_Bubbles_123
+    21300248: Water_Meter_Bubbles_124
+    21300250: Water_Meter_Bubbles_125
+    21300252: Water_Meter_Bubbles_126
+    21300254: Water_Meter_Bubbles_127
+    21300256: Water_Meter_Bubbles_128
+    21300258: Water_Meter_Bubbles_129
+    21300260: Water_Meter_Bubbles_130
+    21300262: Water_Meter_Bubbles_131
+    21300264: Water_Meter_Bubbles_132
+    21300266: Water_Meter_Bubbles_133
+    21300268: Water_Meter_Bubbles_134
+    21300270: Water_Meter_Bubbles_135
+    21300272: Water_Meter_Bubbles_136
+    21300274: Water_Meter_Bubbles_137
+    21300276: Water_Meter_Bubbles_138
+    21300278: Water_Meter_Bubbles_139
+    21300280: Water_Meter_Bubbles_140
+    21300282: Water_Meter_Bubbles_141
+    21300284: Water_Meter_Bubbles_142
+    21300286: Water_Meter_Bubbles_143
+    21300288: Water_Meter_Bubbles_144
+    21300290: Water_Meter_Bubbles_145
+    21300292: Water_Meter_Bubbles_146
+    21300294: Water_Meter_Bubbles_147
+    21300296: Water_Meter_Bubbles_148
+    21300298: Water_Meter_Bubbles_149
+    21300300: Water_Meter_Bubbles_150
+    21300302: Water_Meter_Bubbles_151
+    21300304: Water_Meter_Bubbles_152
+    21300306: Water_Meter_Bubbles_153
+    21300308: Water_Meter_Bubbles_154
+    21300310: Water_Meter_Bubbles_155
+    21300312: Water_Meter_Bubbles_156
+    21300314: Water_Meter_Bubbles_157
+    21300316: Water_Meter_Bubbles_158
+    21300318: Water_Meter_Bubbles_159
+    21300320: Water_Meter_Bubbles_160
+    21300322: Water_Meter_Bubbles_161
+    21300324: Water_Meter_Bubbles_162
+    21300326: Water_Meter_Bubbles_163
+    21300328: Water_Meter_Bubbles_164
+    21300330: Water_Meter_Bubbles_165
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -78,13 +244,3344 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bafe685da4d2f4a85133e02d032595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838618d9a525ca41ba61a0988194aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629d446229541c4eb88c7458a70b71c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2180626dd07ee4c8ab559c21f9be86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41774187429c04a93d3ce60979cc19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb619018692b53440a29c7ad6c6aa850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13c2b4a7e9c8c40ab3a4ba2deae87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab164bb291d8ce4b966b77692eb084e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c315a39fb800f42849386ff3d223df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2640b14560cb124a89b3b1ea11266f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52927e498b0ae33459af53dec2190b64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ecd59f43204114fb1d24b037921788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_12
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa275f158e1cd4e8f6f7da3c6719fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd4cc274d626b4694d52b89e7f9e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_14
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1446958a7d3c48a051bc2fd052e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95e45395716b144a02caa56c4e09d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_16
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223bd86ef1005754d9f88ef92e0aea51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_17
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125bc0b83742e8499fece67a8b46bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_18
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f521cf5ea60e04da52b0f3ca9999e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_19
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b108011be4a04e934e093a1bea2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89d4c1b3652e24ea836e23de4194bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_21
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb927a3e8b7f9a45acfc409b61ee978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_22
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e180a86e647cc44b1b863f975f770b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_23
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221ce9932f98214d9eb5aefa46ba8cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_24
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfd664198a388438c350cd5d10fcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_25
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e624cd00e7963e4cafe495af10f11a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_26
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc91f00ca1b6754c96e357c07b35a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_27
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62657cabf072d4388a4408ead4bd73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_28
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657239437a986064aa24d93efb32372f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_29
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909619268ae15845a14409d96c17fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_30
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e409be149ced4c8c93a522d6d73ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_31
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129117423920dc49a5d595fc5786a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_32
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d0de72292fdb40b5df73e2d040d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_33
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0aad057bceea4f9240afee4434e98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_34
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2980
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1a797cd880d440bebc55fb3b2dbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96861227562514b809462c93775eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d925bc7f412a14c9d5e270d9da9e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7b304f5dfce645ad6a6e115741e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c1f63075584645a3b92136a9a1396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2082185162dc4d8fd9b0a317f9dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c7d4eff659d440b14f042071cb19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab605220617c5448883eab23df49aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_42
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52cb223e0b34804c94748462b3fefd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68995932ff437434eaeaee95c6b8bd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_44
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bec29b80f7d4e46825724c1a178028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_45
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9fdd692fbeca43a21b5a14ddefad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_46
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c53cbac293864eab1bdc7c05732bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_47
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abee259d32e959842979324d77b5e1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_48
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417a200a43713aa4489ff214397c213f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_49
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3fdc63e98569408f8bab7b5133e48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_50
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac3953c05fb18240be1634cccdf8e71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_51
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ffba92b8ccb7458c50e1a23f85a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_52
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6878e0da00a43843a49636588216cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_53
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6518cb7b1f35ea44bcc3f749f4a0898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_54
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005889df2da9994196bb49b4506b52d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_55
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357b2c7d13482d42b4ff9d611be4216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_56
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5394b3b8c867554590544b8dd781716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_57
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814433679dea774695907f85178d185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_58
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65c90ef207845438f92cad6a7aba1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_59
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ad1ea1404b174aab06ce948e28545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_60
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50cb8ee9c44c6c43b02c6eca110ca0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_61
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ce8e13d4929f46878c8d65d076806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_62
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f540875e04c2408d4a9db0ab1fd22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_63
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84685d2179437da4bb0b8053a0b04ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_64
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51fa8565e73a949b183369d0382aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_65
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e36bc99f3fcb49bf578c87fdbe9cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_66
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcf6215187d884cae672674d331767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_67
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ddd0747c4682e4881d0d47198bcfb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_68
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31c05ac457b7b48a6e41165378d797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_69
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2235
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d0af7cd28f4449b6aac6cbdcde818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb79247e8bdca42b8a20cc4e53b139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b130513d5f8b1d48bd83fe50f7d6ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6f56447b9254499a7658812bbbad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516ebbcc37d0a340be8b1ebbae582e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4bbf1f9a93ee4890a5887012932ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809624a45cded4c44b480347c42145df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85502f70d1bbb408213dee9fcbc2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_77
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47773209ee73af479a8eb0199b80bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24e82cb523cd24790ae66e305f0399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_79
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df7bdfb3f4d094bab140caf639624c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_80
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9910bbc073d26c34ba6534e939553f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_81
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbfbe21570add743b3b77da6b8eb2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_82
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2c9815406b16409be114ccfe67e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_83
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c336dbf46bf81488a853b7300caec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_84
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5341ca88f138c049a420a15815b1b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_85
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f7875db358c64995a773c8a86e081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_86
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767952bc81629594f9c1850ebdbbc614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_87
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec171140fd557948ac9717a006132a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_88
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b238d790d9b18468b5747f9efa6f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_89
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ca172d11fcba4192c4cb9d8d96b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_90
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67222efd0a4cd2b42b6773871ae1e2ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_91
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae618d47ca4d194aa835e35e3ab39b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_92
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044dacc56e4d5be4987a8cf7fcfc3329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_93
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92146bd7c3360d8449f6e70093c94598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_94
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aba8d27f4edb14aa5326dd8c9cdd03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_95
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa147ca1071491747838e7f46a0b4d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_96
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23389c5c080db894183fbb8b21b1f419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_97
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233a9eca6fbc5540ac33a15646a87ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_98
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770e20b0099a284bb4c444e4e84defd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_99
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f2af6b595c14428f427065b8d6200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_100
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a8da007e710c4a9161f7736c80d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_101
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a3fbaecd4d7649a79f5c6ab64cba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_102
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf3b04dee7a094fb3e46e118d5f9cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_103
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f21b92a4b9f54fa60fd8d96e11002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_104
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1490
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe326ffccb67847be4b2d7c1c11874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f1cced2186144a99320c44f4198f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_106
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9bf876d13047142a99cce7c3b4fcee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4b9dcfa5004e4b90b9e6ce02e4e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d62bd1116b1694ea0886132d97cd23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65544989b645e304382be84a9d94baaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_110
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f9c0780008f14698f8ba05ec45e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_111
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823813e78a5beba419d97a62bb4d2f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_112
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfee448aa7431f42be5cd68a174028e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06e75862511e2449bd6df5484e77af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_114
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cedd91b2a1ef094190d5a646c02a9f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_115
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd357dc423ac841b2fa7ddf2d436ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_116
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e407b1bcbe321c4aa63fd2c54192214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_117
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308302de4e058bf43b3cf821b91a771c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_118
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e29455cfd73a40a438fcf920ac91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_119
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42105088904260c40960774f064a0a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_120
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112b219fe267474eb3780e7c403aa79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_121
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a319de0026c354aa292749816a70a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_122
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b407fc682719045911e2eaec1cc06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_123
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a507c146b704f45a7f4d58fc4d4357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_124
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e0a379899ae8144b90d886c667e1a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_125
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258df86069a9954ebc720f68d43b14c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_126
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b8d0d44f84d241b4de698c8c83834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_127
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfc76eabb6503439f156236917c98d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_128
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10097b73f365648813edbc7ff236eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_129
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d43ac2386b8294b9e05ea7114f2b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_130
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74ed2fdc3b1604b9504a3e30cc5fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_131
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec18a4ca92428646a06b6ba5758fbdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_132
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b098590ad51896478717f79e0e39eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_133
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c961f2e5a42454f807b7eab2fd17cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_134
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1216c33c59d6418608f1499e3a055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_135
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67d15b7c80a9b468e3f6ea3213521f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_136
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101740e83ed6d9845bcdc5c36d0b50ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_137
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99a6ba7ba23654a896665c5b6ec015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_138
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4190d7aa8e990c4ca819c8b7567100c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_139
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 745
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6923e038e755bd4499024f409c6dddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7587240684a10f4392a43ce642252db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_141
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c687faa79d9d4c4683ca76e84a9d738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_142
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3834e97a6ac0439398d5df39f6d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc81854c33c307489fd85576d7da20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_144
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ba23bb8f87294aa6e8f9f83cf0f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_145
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b056f1cb67e4442bad4f6e75b218cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_146
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b870f45c233f489f8355b9f917dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_147
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae2e31855f980940bef5c5d6271ecd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_148
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9027491d93c2fb43b0d5434a9cc00ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_149
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812df0c308d73164792ef4511422986b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_150
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f109c90744467041bacc12133026674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_151
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e178338493c6048881a003cf4f7d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_152
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5343ca8c5f7ead4abd61e5c20393390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_153
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8cc59574461d41b7f206b2253f435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_154
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50775b09027fa74baa1624aa0c3f4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_155
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324dfd340999364486c04cca7d49884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_156
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0e7efd0a4e614b96b927ab28b03e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_157
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a06fc0cd9e0b447af8724027d3576d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_158
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb8939f5b050540868945dcbfc4a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_159
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d3cdd2395ebae4d9010b4d13f1a048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_160
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0bcb8a72f45b6429f6526c41f13c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_161
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164f33afc6377a40840116752890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_162
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bb249d15dcc7d4c97daaadb261a79e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_163
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee31ba175b4b2a489cdfae1ffe65629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_164
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e32a6ae32912348ad580aa9158ed06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Meter_Bubbles_165
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 108
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c3784a2890d34fa1f663faf99ebeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6f9f13b9e0c6245c793678aa24c83850
+    spriteID: 01855a5930da45b40b79e7b362945dca
     vertices: []
     indices: 
     edges: []

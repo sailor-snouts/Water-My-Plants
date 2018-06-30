@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: 227b64936a7b344ce9f49475cda0fa56
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flower_Cyan_4_(240x210)_0
+    21300002: Flower_Cyan_4_(240x210)_1
+    21300004: Flower_Cyan_4_(240x210)_2
+    21300006: Flower_Cyan_4_(240x210)_3
+    21300008: Flower_Cyan_4_(240x210)_4
+    21300010: Flower_Cyan_4_(240x210)_5
+    21300012: Flower_Cyan_4_(240x210)_6
+    21300014: Flower_Cyan_4_(240x210)_7
+    21300016: Flower_Cyan_4_(240x210)_8
+    21300018: Flower_Cyan_4_(240x210)_9
+    21300020: Flower_Cyan_4_(240x210)_10
+    21300022: Flower_Cyan_4_(240x210)_11
+    21300024: Flower_Cyan_4_(240x210)_12
+    21300026: Flower_Cyan_4_(240x210)_13
+    21300028: Flower_Cyan_4_(240x210)_14
+    21300030: Flower_Cyan_4_(240x210)_15
+    21300032: Flower_Cyan_4_(240x210)_16
+    21300034: Flower_Cyan_4_(240x210)_17
+    21300036: Flower_Cyan_4_(240x210)_18
+    21300038: Flower_Cyan_4_(240x210)_19
+    21300040: Flower_Cyan_4_(240x210)_20
+    21300042: Flower_Cyan_4_(240x210)_21
+    21300044: Flower_Cyan_4_(240x210)_22
+    21300046: Flower_Cyan_4_(240x210)_23
+    21300048: Flower_Cyan_4_(240x210)_24
+    21300050: Flower_Cyan_4_(240x210)_25
+    21300052: Flower_Cyan_4_(240x210)_26
+    21300054: Flower_Cyan_4_(240x210)_27
+    21300056: Flower_Cyan_4_(240x210)_28
+    21300058: Flower_Cyan_4_(240x210)_29
+    21300060: Flower_Cyan_4_(240x210)_30
+    21300062: Flower_Cyan_4_(240x210)_31
+    21300064: Flower_Cyan_4_(240x210)_32
+    21300066: Flower_Cyan_4_(240x210)_33
+    21300068: Flower_Cyan_4_(240x210)_34
+    21300070: Flower_Cyan_4_(240x210)_35
+    21300072: Flower_Cyan_4_(240x210)_36
+    21300074: Flower_Cyan_4_(240x210)_37
+    21300076: Flower_Cyan_4_(240x210)_38
+    21300078: Flower_Cyan_4_(240x210)_39
+    21300080: Flower_Cyan_4_(240x210)_40
+    21300082: Flower_Cyan_4_(240x210)_41
+    21300084: Flower_Cyan_4_(240x210)_42
+    21300086: Flower_Cyan_4_(240x210)_43
+    21300088: Flower_Cyan_4_(240x210)_44
+    21300090: Flower_Cyan_4_(240x210)_45
+    21300092: Flower_Cyan_4_(240x210)_46
+    21300094: Flower_Cyan_4_(240x210)_47
+    21300096: Flower_Cyan_4_(240x210)_48
+    21300098: Flower_Cyan_4_(240x210)_49
+    21300100: Flower_Cyan_4_(240x210)_50
+    21300102: Flower_Cyan_4_(240x210)_51
+    21300104: Flower_Cyan_4_(240x210)_52
+    21300106: Flower_Cyan_4_(240x210)_53
+    21300108: Flower_Cyan_4_(240x210)_54
+    21300110: Flower_Cyan_4_(240x210)_55
+    21300112: Flower_Cyan_4_(240x210)_56
+    21300114: Flower_Cyan_4_(240x210)_57
+    21300116: Flower_Cyan_4_(240x210)_58
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb07ee22fb8874ca90630fbad0b0ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4117659d1c50cd841b2a0063e8b75ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2dc8257d740442a0e6a8bbd6e4402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150296ae4f24254e9f1c9780c2af688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c883dfbaa829db489dd57195f47236b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbc23d7c65a16744a5819576c5f29cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5e086f7f8edc41bcb9330b8e5d7f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9675b89ba6bf347b4249826ce7c611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb25ecb4b39ac45b63030d07e8d0d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1050
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d338148a48f5439bcb8afe10a9738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e3467613b35044a33a45b3dc9c204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7399e6caee8c345a58fbb600d6d791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fd248c011d5d4b8075b458eb49ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f8b0d226ec304f9ffc79e8161c78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9fd82b8ce3944fa5de68790ffb9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e403c814438b429fb627109255971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f1e52877f31c4784b62c16ae2ef37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27a90175805934886530c44c42f163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b472ce1abb5d4187ea3f28f1c9423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 840
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd37149e4c74214e96140fdbe4d0cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518f76c393c6f34e9f92a84cadf1afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9dd5cf42c725d45b72cd356eede4d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d5a535edf40994fad2ffb744f22f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780cd7048e917d42bb86f24db3d0fd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c13decf5d98b1479e105a93da4f714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb778c1f1ee76a74ba1a75c4b829512b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e641a80d58c8a44bdcd1ea93eac14f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1dc70e2c4e9b94a95dbf50c5911875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881733ec539352f488ec5432e3107a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 630
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2820875c71f8f84dbd1e06a4f3b82ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25bd14e76eb094bac9c6cfcff71f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53bd3522221f7045821ef1f4acfc7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5ba6c5c5cf9a44882c597ce71f198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e3d29b46d86847ba01623139735dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928e7a33aa0141468b01692a2f9741b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ca17a86f876142a5993291f0495e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c8595492f7f7b4aaf4157b29439e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bdc6cdb47e8ba4f9514e30d226a639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcc8da58246f64eac295b25f8bda48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 420
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c85760fa090e4aa0ba83f9913ef28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4f1a324990f54fbeaea2317f8e241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd613830f5b506d4ea49487a21217967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f6f9ddc283184192769a15c5aa7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc99490d0874a44db82cc55bb41a395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b81bed429585945b2d236e3852b619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc30ed4c285494e98a4779a414aa08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b126d9104f9f424183c1582f7f52acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce237f129536b248b5c19328421d5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb414d8f759ea74988900d6872e35a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_49
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 210
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5ce2f5bb74e944801f363f64afdc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9f870d034b014a88e5134e62e2006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15405914269e96a468d2052c589b4195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a47bcf0249b4429778d9f2cfecc3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e123897a14223240848cff1b6576939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63590d45f6060ce429477133a54f2ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06361cf46e163524dab5743d932ed7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45cb390b1d99b4097b915d570f8096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_57
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9206bd464041b4c95f8a59334e19d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Cyan_4_(240x210)_58
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e17f5ee0431f4ea2bf2a4ec1b1737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 885ea31255c996f4fbd133056e932453
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

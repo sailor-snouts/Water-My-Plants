@@ -8,6 +8,7 @@ TagManager:
   - Deadzone
   - Plant
   - Water
+  - Flower
   layers:
   - Default
   - TransparentFX

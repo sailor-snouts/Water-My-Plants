@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Animator))]
 public class TreeController : MonoBehaviour
 {
     public int levelCost = 2;
-    public Sprite[] levels;
     private float timeUntilDowngrade;
     private float downgradeTimer = 12f;
     private int levelCap = 4;
@@ -14,7 +14,6 @@ public class TreeController : MonoBehaviour
     private ForestController forest;
 
     public void Start () {
-        this.levelCap = this.levels.Length;
         this.anim = gameObject.GetComponent<Animator>();
         this.forest = this.GetComponentInParent<ForestController>();
     }
