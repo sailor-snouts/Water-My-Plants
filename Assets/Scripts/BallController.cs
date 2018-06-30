@@ -8,7 +8,7 @@ public class BallController : MonoBehaviour {
     public GameObject tank;
     public bool isAlive = true;
 
-    public AudioSource audio;
+    private AudioSource audio;
     public AudioClip splash;
     public AudioClip tree;
     private WaterTank tankScript;
@@ -38,7 +38,7 @@ public class BallController : MonoBehaviour {
 
     private void Update()
     {
-        if (!ballInPlay && Input.GetButtonDown("Fire1"))
+        if (!ballInPlay && Input.GetButtonDown("Fire1") || !ballInPlay && Input.GetKeyDown(KeyCode.Space))
         {
             transform.parent = null;
             ballInPlay = true;
@@ -76,7 +76,7 @@ public class BallController : MonoBehaviour {
                 this.isAlive = false;
                 return;
             }
-            this.tankScript.UseWater(20);
+            this.tankScript.UseWater(25);
         }
 
         // Tree
@@ -98,7 +98,7 @@ public class BallController : MonoBehaviour {
     {
 
         // Tree
-        if (col.gameObject.tag == "Plant")
+        if (col.gameObject.tag == "Flower")
         {
             TreeController tree = col.gameObject.GetComponent<TreeController>();
             if (this.tankScript.HasWater(tree.GetLevelCost()) && tree.CanLevelUp())

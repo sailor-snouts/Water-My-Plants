@@ -8,7 +8,7 @@ public class TreeController : MonoBehaviour
     public int levelCost = 2;
     private float timeUntilDowngrade;
     private float downgradeTimer = 12f;
-    private int levelCap = 4;
+    public int levelCap = 4;
     private int level = 1;
     private Animator anim;
     private ForestController forest;
@@ -19,7 +19,7 @@ public class TreeController : MonoBehaviour
     }
 	
 	void Update () {
-		if(this.level > 1 && this.level != 4)
+		if(this.level > 1 && this.level != this.levelCap)
         {
             this.timeUntilDowngrade -= Time.deltaTime;
             if(timeUntilDowngrade <= 0)

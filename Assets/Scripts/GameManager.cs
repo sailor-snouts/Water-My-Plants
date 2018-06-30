@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour {
 	void Update () {        
         // show level progress
         float completion = this.forest.GetCompletion(); ;
-        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 120f, 0f, 100f));
+        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 110f, 0f, 100f));
 
         // scoreboard
         scoreBoard.SetScore(prettyCompletion);
