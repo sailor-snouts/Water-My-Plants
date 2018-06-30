@@ -1045,6 +1045,21 @@ Prefab:
       propertyPath: m_SortingLayer
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114015352051218612, guid: 4d2fcc14312b4384bb41f592227b1564,
+        type: 2}
+      propertyPath: forceMultiplier
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 50173885983936154, guid: 4d2fcc14312b4384bb41f592227b1564,
+        type: 2}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50173885983936154, guid: 4d2fcc14312b4384bb41f592227b1564,
+        type: 2}
+      propertyPath: m_LinearDrag
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4d2fcc14312b4384bb41f592227b1564, type: 2}
   m_IsPrefabParent: 0
