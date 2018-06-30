@@ -1,0 +1,1964 @@
+fileFormatVersion: 2
+guid: 992e9d6ea0a4c4c46a0e361b7c8855c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flower_Orange_3_(215x215)_0
+    21300002: Flower_Orange_3_(215x215)_1
+    21300004: Flower_Orange_3_(215x215)_2
+    21300006: Flower_Orange_3_(215x215)_3
+    21300008: Flower_Orange_3_(215x215)_4
+    21300010: Flower_Orange_3_(215x215)_5
+    21300012: Flower_Orange_3_(215x215)_6
+    21300014: Flower_Orange_3_(215x215)_7
+    21300016: Flower_Orange_3_(215x215)_8
+    21300018: Flower_Orange_3_(215x215)_9
+    21300020: Flower_Orange_3_(215x215)_10
+    21300022: Flower_Orange_3_(215x215)_11
+    21300024: Flower_Orange_3_(215x215)_12
+    21300026: Flower_Orange_3_(215x215)_13
+    21300028: Flower_Orange_3_(215x215)_14
+    21300030: Flower_Orange_3_(215x215)_15
+    21300032: Flower_Orange_3_(215x215)_16
+    21300034: Flower_Orange_3_(215x215)_17
+    21300036: Flower_Orange_3_(215x215)_18
+    21300038: Flower_Orange_3_(215x215)_19
+    21300040: Flower_Orange_3_(215x215)_20
+    21300042: Flower_Orange_3_(215x215)_21
+    21300044: Flower_Orange_3_(215x215)_22
+    21300046: Flower_Orange_3_(215x215)_23
+    21300048: Flower_Orange_3_(215x215)_24
+    21300050: Flower_Orange_3_(215x215)_25
+    21300052: Flower_Orange_3_(215x215)_26
+    21300054: Flower_Orange_3_(215x215)_27
+    21300056: Flower_Orange_3_(215x215)_28
+    21300058: Flower_Orange_3_(215x215)_29
+    21300060: Flower_Orange_3_(215x215)_30
+    21300062: Flower_Orange_3_(215x215)_31
+    21300064: Flower_Orange_3_(215x215)_32
+    21300066: Flower_Orange_3_(215x215)_33
+    21300068: Flower_Orange_3_(215x215)_34
+    21300070: Flower_Orange_3_(215x215)_35
+    21300072: Flower_Orange_3_(215x215)_36
+    21300074: Flower_Orange_3_(215x215)_37
+    21300076: Flower_Orange_3_(215x215)_38
+    21300078: Flower_Orange_3_(215x215)_39
+    21300080: Flower_Orange_3_(215x215)_40
+    21300082: Flower_Orange_3_(215x215)_41
+    21300084: Flower_Orange_3_(215x215)_42
+    21300086: Flower_Orange_3_(215x215)_43
+    21300088: Flower_Orange_3_(215x215)_44
+    21300090: Flower_Orange_3_(215x215)_45
+    21300092: Flower_Orange_3_(215x215)_46
+    21300094: Flower_Orange_3_(215x215)_47
+    21300096: Flower_Orange_3_(215x215)_48
+    21300098: Flower_Orange_3_(215x215)_49
+    21300100: Flower_Orange_3_(215x215)_50
+    21300102: Flower_Orange_3_(215x215)_51
+    21300104: Flower_Orange_3_(215x215)_52
+    21300106: Flower_Orange_3_(215x215)_53
+    21300108: Flower_Orange_3_(215x215)_54
+    21300110: Flower_Orange_3_(215x215)_55
+    21300112: Flower_Orange_3_(215x215)_56
+    21300114: Flower_Orange_3_(215x215)_57
+    21300116: Flower_Orange_3_(215x215)_58
+    21300118: Flower_Orange_3_(215x215)_59
+    21300120: Flower_Orange_3_(215x215)_60
+    21300122: Flower_Orange_3_(215x215)_61
+    21300124: Flower_Orange_3_(215x215)_62
+    21300126: Flower_Orange_3_(215x215)_63
+    21300128: Flower_Orange_3_(215x215)_64
+    21300130: Flower_Orange_3_(215x215)_65
+    21300132: Flower_Orange_3_(215x215)_66
+    21300134: Flower_Orange_3_(215x215)_67
+    21300136: Flower_Orange_3_(215x215)_68
+    21300138: Flower_Orange_3_(215x215)_69
+    21300140: Flower_Orange_3_(215x215)_70
+    21300142: Flower_Orange_3_(215x215)_71
+    21300144: Flower_Orange_3_(215x215)_72
+    21300146: Flower_Orange_3_(215x215)_73
+    21300148: Flower_Orange_3_(215x215)_74
+    21300150: Flower_Orange_3_(215x215)_75
+    21300152: Flower_Orange_3_(215x215)_76
+    21300154: Flower_Orange_3_(215x215)_77
+    21300156: Flower_Orange_3_(215x215)_78
+    21300158: Flower_Orange_3_(215x215)_79
+    21300160: Flower_Orange_3_(215x215)_80
+    21300162: Flower_Orange_3_(215x215)_81
+    21300164: Flower_Orange_3_(215x215)_82
+    21300166: Flower_Orange_3_(215x215)_83
+    21300168: Flower_Orange_3_(215x215)_84
+    21300170: Flower_Orange_3_(215x215)_85
+    21300172: Flower_Orange_3_(215x215)_86
+    21300174: Flower_Orange_3_(215x215)_87
+    21300176: Flower_Orange_3_(215x215)_88
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396ff3e0a4d5ad4c9de37b2901c92ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93e787f1ee4cd428c4a36ce0e92807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722874977180af44aa2aa68bdc13305e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e0a8fd41a540a42af4403c65523e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9e578cba36d34ab53da115db80f0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf06815761705144a41305f7b2a8736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a0f2e1c35bc844b8851da031c103c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a52c668fae304fbc7968060c25e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_8
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1577dc9ae9714188704c976a00286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_9
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1720
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6ed31c91c460458916ed464b47701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5bc5845e038c4f97ca7aefb0692b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b71b7a11542b4196730638134b803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c609bdd84ff6043b36eac35cd469e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb93d55bf123de47b9dca4cd45d9c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5fa7376ea11d409fa2eee668319f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b4e9ff436af8949a9e56df3e21d558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_16
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771c7f92e1c23f498de7091b1c88fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_17
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45249647cae0989438d25bda5ab72ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ffd835227e3340b6790d81e67137e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_19
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1505
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0ab1921edb564a8c6e9d23d0edab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1c2b06a9988a4495888dcc61ee15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba365d9b1dcd564ea4884edbf9418d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658d6d975b68a14eabce48f7810fe3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f8f55d1e469541b08eafebe1acd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d549125a2291438a2322ccc7b9b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_25
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b20593f0e7fa48bf7f84ff547d8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_26
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a80d7b62392347a20a6a04108b40c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_27
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e821dcddeaac0a4c894482ef2f5d6d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_28
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4567fde2724e2b46b1790dfe87427fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1290
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ba7570cea04f4cbb3cd17d8175901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e80fe41535cd914c83e001097252dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b018856aa990704ca318208e908bc9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370996e6f46c3c54b8893d88ee9fb107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_33
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439fabb564e208249ac23cc101939ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_34
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0308def1896249b69183cd5b99b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_35
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef0b5bcf6f29b244a5ac5244d73a12f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_36
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db24e94bdcb2d4d90197cd8f875f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_37
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d16f655b1e9440a235d7ab0cf7164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_38
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfbedea00a733e45b751755727c7f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_39
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1075
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8de8b31fa0e254b908142d152c0c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1670c44a7c1e44c98aa3a4fbed27a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a33e740384044ab5946952112731b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93ecba814462d4a8fdea62c4793b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76b201f92ca4c4dbf4e766e83a0879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a20470f576fd741be2aadb93247b70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6bc64f05f7b8f40a21faa36b15cbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_46
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f541459ca53434681e747f2ef6c360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_47
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277d97fdfc2dd7408aed167bd0873e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_48
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f36aef3427634f9c2b9c21df3df5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_49
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 860
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a79beb44b8af44a8e30dada9269a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa19f02ad189840bc4cd4f0bdc61a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2096afcd1f7be4e92cedf9997b3d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a2102027f8a44ab3faa855528493d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_53
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f83391e55bd4b84b9453de812e4acd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_54
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da495e25190812440b2566c78a26ae5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_55
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf77b61e8c62024283c2a9c9ea81692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_56
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd94a6f3abfa44596271d75842d0b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_57
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7a7efb5414c64c955ab335885423e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_58
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805b25eb4ff6a841b5fdd61565a925a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_59
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 645
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25918b85f655948ae0539c646f6f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13da83d8b21674790e452b9e79a627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb6e3e188bf4743a488da31541b26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_62
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59da3801440864fa75f8b8f914c982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_63
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0f6572312e00e489cf0a9c93cfcf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_64
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da518c171e351a4d8f508dfc152b485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_65
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b31b3ab794d2b468265c427c8d704c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_66
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc3e54e55bf2d4288af9acb42de96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_67
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43304a61ee74364281785d4a8e1a805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_68
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c2ad81a08e204580fce1783e90a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_69
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 430
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d3f353baa063c4a966831ad47f45bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa48f5e167c4bf44aed360fa26dfafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8757cc24f993428ae02e7b6794c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12fbdeb25bb990478c0ae765f5eaa40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_73
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562360a5bdf7e743bd5ed8bc5825b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_74
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa7575bea150f4c8b33554672c4e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_75
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fde1ebda08a3140beda027d0eb5d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_76
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260cff7edf470c48a5e86f9532e4df0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_77
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a1ff216768294f8e32e1404864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_78
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1b3aa2bbac0b4982f91f29e37df97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_79
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 215
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec65fe4dc9fd540b7ca40fad28d202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f3e6f5ce1630048b6958b52d3d6bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f783391bf39c24da08ecb5dcf173aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_82
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17473658d7d7a245811c3be978aacf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_83
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f55a887e354ed44a979b74cfefec67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_84
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe429c8817781f498b7568207700f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_85
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0057a4552cd14d9d345c68647b5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_86
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf999e36b8d9e4b47861baeb3a9af800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_87
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b9cf0a1c9daf940bc69b827850ee5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Orange_3_(215x215)_88
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6ded8fdf970a438af6db1da13cc70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b823803c0029fe4bbba53be53991168
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

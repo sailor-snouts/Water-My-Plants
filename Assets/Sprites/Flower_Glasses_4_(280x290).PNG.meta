@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 9bd4c894f6cf23149888b7f165da5f1f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flower_Glasses_4_(280x290)_0
+    21300002: Flower_Glasses_4_(280x290)_1
+    21300004: Flower_Glasses_4_(280x290)_2
+    21300006: Flower_Glasses_4_(280x290)_3
+    21300008: Flower_Glasses_4_(280x290)_4
+    21300010: Flower_Glasses_4_(280x290)_5
+    21300012: Flower_Glasses_4_(280x290)_6
+    21300014: Flower_Glasses_4_(280x290)_7
+    21300016: Flower_Glasses_4_(280x290)_8
+    21300018: Flower_Glasses_4_(280x290)_9
+    21300020: Flower_Glasses_4_(280x290)_10
+    21300022: Flower_Glasses_4_(280x290)_11
+    21300024: Flower_Glasses_4_(280x290)_12
+    21300026: Flower_Glasses_4_(280x290)_13
+    21300028: Flower_Glasses_4_(280x290)_14
+    21300030: Flower_Glasses_4_(280x290)_15
+    21300032: Flower_Glasses_4_(280x290)_16
+    21300034: Flower_Glasses_4_(280x290)_17
+    21300036: Flower_Glasses_4_(280x290)_18
+    21300038: Flower_Glasses_4_(280x290)_19
+    21300040: Flower_Glasses_4_(280x290)_20
+    21300042: Flower_Glasses_4_(280x290)_21
+    21300044: Flower_Glasses_4_(280x290)_22
+    21300046: Flower_Glasses_4_(280x290)_23
+    21300048: Flower_Glasses_4_(280x290)_24
+    21300050: Flower_Glasses_4_(280x290)_25
+    21300052: Flower_Glasses_4_(280x290)_26
+    21300054: Flower_Glasses_4_(280x290)_27
+    21300056: Flower_Glasses_4_(280x290)_28
+    21300058: Flower_Glasses_4_(280x290)_29
+    21300060: Flower_Glasses_4_(280x290)_30
+    21300062: Flower_Glasses_4_(280x290)_31
+    21300064: Flower_Glasses_4_(280x290)_32
+    21300066: Flower_Glasses_4_(280x290)_33
+    21300068: Flower_Glasses_4_(280x290)_34
+    21300070: Flower_Glasses_4_(280x290)_35
+    21300072: Flower_Glasses_4_(280x290)_36
+    21300074: Flower_Glasses_4_(280x290)_37
+    21300076: Flower_Glasses_4_(280x290)_38
+    21300078: Flower_Glasses_4_(280x290)_39
+    21300080: Flower_Glasses_4_(280x290)_40
+    21300082: Flower_Glasses_4_(280x290)_41
+    21300084: Flower_Glasses_4_(280x290)_42
+    21300086: Flower_Glasses_4_(280x290)_43
+    21300088: Flower_Glasses_4_(280x290)_44
+    21300090: Flower_Glasses_4_(280x290)_45
+    21300092: Flower_Glasses_4_(280x290)_46
+    21300094: Flower_Glasses_4_(280x290)_47
+    21300096: Flower_Glasses_4_(280x290)_48
+    21300098: Flower_Glasses_4_(280x290)_49
+    21300100: Flower_Glasses_4_(280x290)_50
+    21300102: Flower_Glasses_4_(280x290)_51
+    21300104: Flower_Glasses_4_(280x290)_52
+    21300106: Flower_Glasses_4_(280x290)_53
+    21300108: Flower_Glasses_4_(280x290)_54
+    21300110: Flower_Glasses_4_(280x290)_55
+    21300112: Flower_Glasses_4_(280x290)_56
+    21300114: Flower_Glasses_4_(280x290)_57
+    21300116: Flower_Glasses_4_(280x290)_58
+    21300118: Flower_Glasses_4_(280x290)_59
+    21300120: Flower_Glasses_4_(280x290)_60
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd0994fb9beb14caf6a0504d9b3e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7bef4441f6eb4fb6e0d1ce13a6610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4175898a01464fa539d3214c71373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd35b6c287f7a40b8b2c3c2c910899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce5b9033f757949b1932fd0d7ddd4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d274354866eb46b10618433885e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9717ad2375764794434b7eb82721a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_7
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef926b57354dd34f91298a0525b6f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_8
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0b353aab07414abd8f9afa80144e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_9
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1740
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1660fa956f55840abc7f32a3a6fdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ceb8adb5f6064468a10f9868d900c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a3d312c77cbb4f8fbba1881cafab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c33e74afd0a14cb34b7cae7dc6bce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02895a4016d9d642a30dea2f66070ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c0445d9a07b24594e657d8278863b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7563efaed8afd1945b02de2d28885f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_16
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ab5f508bfb6a4aaef498af4eda77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_17
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb11292a8e332e4caa00ac5b959f168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_18
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025c91f29cf2a34a8aa199c97d6067d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_19
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1450
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4512341e70602e84aad388691599eea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72566ecef65554d4d94391f6b8e45722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897391e044d0cd044a78e3a68a1c1023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c86283292f7b4391a4d47aff2c3a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6abf8a2560e5042a7b0a85960d3808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_24
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb859581acfc7498fed34e317e8f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98969470bf30f4f43b0620d35574c3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_26
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfec705d5c51d24dadde11913829642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_27
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67279911c23e8f468ce5b8cf8dc8a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d99c7794f9e2f4589797db85d4b969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_29
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1160
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f03eb38710d614cb5a96ccca99be20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25873a43c63e8524ab3d87770bca225d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a3ad7e7cf6314ebcf18e26157e764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a7409217f96c4e8d66d1a0d007279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956ca260be2645438507644c9f15bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_34
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e35988d44791a4195980923e1cc270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_35
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2724190ffa4a45a4ff4fd64b88e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_36
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8038dec7ccc353b42ba1dd3f1676d5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_37
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5115e9b1843e46479949e83a8ec79e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_38
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42512c45f12204289b139695b8ef59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_39
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 870
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6597c8ee99cb0e4cb4b8df60fae98d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ed9cd90658a64d97418556334a363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4dd909860582e47a9c9e3082b01e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98907927e6ecb9144ba375c19adb841d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81993059c65c3242b4bfe7d6026a3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c71f7da30d28144992a468fa70484c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a495eeefb6d984cb515559734a271c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d50b742b0542d04b8c71be7ab6e4a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_47
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c96eac0041031242b470bb9812cbc34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_48
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18073e22e42a14f95eef9839497e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_49
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 580
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d1c9ee92505140b1ef8bd9c3ced73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4ea6fd3ecfa54185b1949f3c4936b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79368ff6b137eab4ba270a3e1c11d991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9639eb92ac7f445ae0050416283e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_53
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660ad735a8bf3d468cc3cbcff6acd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8688717bf43c9784491767398865404e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_55
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a781edad9428469b69ac23f12dac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_56
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92bce2b59c41f429aa798204cc6f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_57
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db57b526695e44bb4d44ebc6165e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_58
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb27b6834ece243bd32dfe94851371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_59
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 290
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b7e7eab009c347866d1b7cd9aec79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Glasses_4_(280x290)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd71b038e05bd48bcd1620563588fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f554aa3c726f9cc47a98ac1fd8c40da0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
