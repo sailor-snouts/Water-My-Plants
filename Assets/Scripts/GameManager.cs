@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour {
 	void Update () {        
         // show level progress
         float completion = this.forest.GetCompletion(); ;
-        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 110f, 0f, 100f));
+        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 115f, 0f, 100f));
 
         // scoreboard
         scoreBoard.SetScore(prettyCompletion);
@@ -52,15 +52,15 @@ public class GameManager : MonoBehaviour {
         // lose
         if (!this.ball.isAlive)
         {
-            this.fadeScenes.LoadSceneAsync("GameOver");
-            return;
+            //this.fadeScenes.LoadSceneAsync("GameOver");
+            //return;
         }
 
         // win
         if(prettyCompletion == 100f)
         {
-            //this.fadeScenes.LoadSceneAsync("Win");
-            //return;
+            this.fadeScenes.LoadSceneAsync("Win");
+            return;
         }
     }
 }

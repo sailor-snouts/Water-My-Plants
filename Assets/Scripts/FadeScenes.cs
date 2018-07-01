@@ -36,6 +36,10 @@ public class FadeScenes : MonoBehaviour
     {
         alpha += fadeDir * fadeSpeed * Time.fixedDeltaTime;
         alpha = Mathf.Clamp01(alpha);
+        if(fadeDir == 1)
+        {
+            alpha = 1f;
+        }
         GUI.color = new Color(GUI.color.r, GUI.color.g, GUI.color.b, alpha);
         GUI.depth = drawDepth;
         GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), fadeOutTexture);
@@ -60,7 +64,7 @@ public class FadeScenes : MonoBehaviour
             gs.alignment = TextAnchor.MiddleCenter;
 
             GUI.skin.label.alignment = TextAnchor.MiddleCenter;
-            GUI.Label(new Rect(X, Y, Width, Heigth), string.Format("{0:N0}%", Async.progress * 100), gs);
+            GUI.Label(new Rect(X, Y, Width, Heigth), (Mathf.Floor(Async.progress * 100)) + "%", gs);
         }
     }
 
@@ -131,9 +135,10 @@ public class FadeScenes : MonoBehaviour
 	 */
     IEnumerator ChangeSceneAsync(string SceneName, float WaitFor = 0.6f)
     {
-        yield return StartCoroutine(WaitForRealSeconds(WaitFor));
+        //yield return StartCoroutine(WaitForRealSeconds(WaitFor));
         BeginFade(1);
         Async = SceneManager.LoadSceneAsync(SceneName);
+        Async.allowSceneActivation = true;
         isInProgress = false;
         yield return Async;
     }

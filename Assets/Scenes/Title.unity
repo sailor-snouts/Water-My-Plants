@@ -468,10 +468,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ProgressBar: {fileID: 2800000, guid: ee57191f31d8f3d4b8c8070fee8e3c78, type: 3}
-  ProgressBarBackground: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3,
+  ProgressBarBackground: {fileID: 2800000, guid: ee57191f31d8f3d4b8c8070fee8e3c78,
     type: 3}
   fadeOutTexture: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3, type: 3}
-  fadeSpeed: 0.1
+  fadeSpeed: 0.8
 --- !u!4 &1973130077
 Transform:
   m_ObjectHideFlags: 0
