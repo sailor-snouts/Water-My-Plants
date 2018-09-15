@@ -52,8 +52,8 @@ public class GameManager : MonoBehaviour {
         // lose
         if (!this.ball.isAlive)
         {
-            //this.fadeScenes.LoadSceneAsync("GameOver");
-            //return;
+            this.fadeScenes.LoadSceneAsync("GameOver");
+            return;
         }
 
         // win
