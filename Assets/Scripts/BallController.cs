@@ -58,12 +58,18 @@ public class BallController : MonoBehaviour {
         if (col.gameObject.tag == "Player")
         {
             this.rb.velocity = Vector3.zero;
+            Vector2 dir = this.gameObject.transform.position - col.gameObject.transform.position;
+            rb.AddForce(dir.normalized * this.ballInitialVelocity);
+
+            /*
+            this.rb.velocity = Vector3.zero;
             Vector3 point = col.contacts[0].point;
             BoxCollider2D box = col.gameObject.gameObject.GetComponent<BoxCollider2D>();
             float thetaMultiplier = (point.x - box.bounds.min.x) / box.bounds.size.x;
             thetaMultiplier = Mathf.Clamp(thetaMultiplier, 0.15f, 0.85f);
             Vector3 dir = Quaternion.AngleAxis(thetaMultiplier * 180f, Vector3.back) * Vector3.left;
             rb.AddForce(dir * this.ballInitialVelocity);
+            */
         }
 
         // deadzone, reset ball
@@ -79,7 +85,7 @@ public class BallController : MonoBehaviour {
             this.tankScript.UseWater(25);
         }
 
-        // Tree
+        // Plant
         if (col.gameObject.tag == "Plant")
         {
             TreeController tree = col.gameObject.GetComponent<TreeController>();
