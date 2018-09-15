@@ -43,29 +43,6 @@ public class FadeScenes : MonoBehaviour
         GUI.color = new Color(GUI.color.r, GUI.color.g, GUI.color.b, alpha);
         GUI.depth = drawDepth;
         GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), fadeOutTexture);
-
-        if (Async != null)
-        {
-            // Progress Bar
-            int Width = Screen.width / 3;
-            int Heigth = 60;
-
-            // Center in the screen
-            int X = (Screen.width / 2) - (Width / 2);
-            int Y = (Screen.height / 2) - (Heigth / 2);
-
-            // Draw on screen
-            GUI.depth = drawDepth;
-            GUI.DrawTexture(new Rect(X, Y, Width, Heigth), ProgressBarBackground);
-            GUI.DrawTexture(new Rect(X, Y, Width * Async.progress, Heigth), ProgressBar);
-
-            GUIStyle gs = new GUIStyle();
-            gs.fontSize = 40;
-            gs.alignment = TextAnchor.MiddleCenter;
-
-            GUI.skin.label.alignment = TextAnchor.MiddleCenter;
-            GUI.Label(new Rect(X, Y, Width, Heigth), (Mathf.Floor(Async.progress * 100)) + "%", gs);
-        }
     }
 
     public float BeginFade(int direction)

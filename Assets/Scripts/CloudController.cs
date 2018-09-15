@@ -2,76 +2,87 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CloudController : MonoBehaviour {
-    private float amplitude = 0.5f;
-    private float period = 3;
-    private float velocity = 1;
-    private float dir = 1;
-    private float positionX = 10;
-    private float offsetY = 0;
-    private float positionY = 0;
-    public float waitTime = 1f;
-    private bool isWaiting = false;
+[RequireComponent(typeof(Rigidbody2D))]
+public class CloudController : MonoBehaviour
+{
 
-	void Start () {
-        this.positionX = this.transform.position.x;
-        this.positionY = this.transform.position.y;
-        this.offsetY = this.positionY;
+    [SerializeField]
+    private float magnitude = 1f;
 
-        if(Random.value > 0.5f)
+    [SerializeField]
+    private float boundTop;
+    [SerializeField]
+    private float boundRight;
+    [SerializeField]
+    private float boundBottom;
+    [SerializeField]
+    private float boundLeft;
+
+    [SerializeField]
+    private Vector2 goal;
+
+
+    [SerializeField]
+    private float waitStartPosition;
+    [SerializeField]
+    private float waitStartTime;
+    [SerializeField]
+    private float waitMin;
+    [SerializeField]
+    private float waitMax;
+    [SerializeField]
+    private float waitCounter;
+
+    private Rigidbody2D rb;
+
+    private void Awake()
+    {
+        this.rb = gameObject.GetComponent<Rigidbody2D>();
+    }
+
+    private void Start()
+    {
+        this.NewGoal();
+    }
+
+    private void Update()
+    {
+        if(this.waitCounter > 0f)
         {
-            this.dir *= 1;
+            this.waitCounter -= Time.deltaTime;
+            if(this.waitCounter < 0f)
+            {
+                this.NewGoal();
+            }
+            else
+            {
+                this.transform.position = new Vector2(this.transform.position.x, this.waitStartPosition + 0.5f * Mathf.Sin((Time.time - this.waitStartTime) * 2f));
+            }
+
         }
-        else
+        else if(Mathf.Abs(this.transform.position.x - this.goal.x) < 0.1f && Mathf.Abs(this.transform.position.y - this.goal.y) < 0.1f)
         {
-            this.dir *= -1;
+            this.rb.velocity = Vector3.zero;
+            this.waitCounter = Random.Range(this.waitMin, this.waitMax);
+            this.waitStartPosition = this.transform.position.y;
+            this.waitStartTime = Time.time;
         }
     }
-	
-	void Update () {
-        if(this.isWaiting)
+
+    private void NewGoal()
+    {
+        this.goal.x = Random.Range(this.boundLeft, this.boundRight);
+        this.goal.y = Random.Range(this.boundBottom, this.boundTop);
+
+        Vector2 dir = this.goal - (Vector2)this.transform.position;
+
+        if(dir.magnitude < 2f)
         {
-            this.Waiting();
+            this.NewGoal();
             return;
         }
 
-        if((this.dir < 0f && this.positionX < -6f) || (this.dir > 0f && this.positionX > 4f))
-        {
-            this.waitTime = Random.Range(1f, 2f);
-            this.isWaiting = true;
-            return;
-        }
-
-        this.positionX += this.velocity * this.dir  * Time.deltaTime;
-        this.positionY = this.offsetY + Mathf.Sin(this.period * Time.time) * this.amplitude;
-        this.transform.position = new Vector3(this.positionX, this.positionY, 0);
-    }
-
-    void Waiting()
-    {
-        waitTime -= Time.deltaTime;
-
-        if(waitTime < 0f)
-        {
-            this.positionX = this.transform.position.x;
-            this.positionY = this.transform.position.y;
-            this.offsetY = this.positionY;
-            this.isWaiting = false;
-            this.ChangeDirection();
-        }
-
-        this.positionY = this.offsetY + Mathf.Sin(this.period * Time.time) * this.amplitude;
-        this.transform.position = new Vector3(this.positionX, this.positionY, 0);
-    }
-
-    void ChangeDirection()
-    {
-        this.dir *= -1;
-        this.amplitude = Random.Range(0f, 1f);
-        this.period = Random.Range(1f, 3f);
-        this.velocity = Random.Range(1f, 3f);
-        Vector3 theScale = transform.localScale;
-        theScale.x *= this.dir;
-        transform.localScale = theScale;
+        this.rb.velocity = Vector3.zero;
+        rb.AddForce(dir.normalized * this.magnitude);
     }
 }

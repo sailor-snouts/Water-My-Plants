@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour {
+public class GameManager : MonoBehaviour
+{
     public FadeScenes fadeScenes;
     public BallController ball;
     public WaterTank tank;
@@ -21,10 +22,11 @@ public class GameManager : MonoBehaviour {
         this.groundCount = this.spriteR.Length;
 	}
 	
-	void Update () {        
+	void Update ()
+    {        
         // show level progress
         float completion = this.forest.GetCompletion(); ;
-        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 115f, 0f, 100f));
+        float prettyCompletion = Mathf.Floor(Mathf.Clamp(completion * 105f, 0f, 100f));
 
         // scoreboard
         scoreBoard.SetScore(prettyCompletion);
@@ -52,14 +54,14 @@ public class GameManager : MonoBehaviour {
         // lose
         if (!this.ball.isAlive)
         {
-            this.fadeScenes.LoadSceneAsync("GameOver");
+            this.fadeScenes.LoadScene("GameOver");
             return;
         }
 
         // win
         if(prettyCompletion == 100f)
         {
-            this.fadeScenes.LoadSceneAsync("Win");
+            this.fadeScenes.LoadScene("Win");
             return;
         }
     }
