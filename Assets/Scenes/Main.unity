@@ -1236,7 +1236,7 @@ Prefab:
     - target: {fileID: 114015352051218612, guid: 4d2fcc14312b4384bb41f592227b1564,
         type: 2}
       propertyPath: controllerInputForceMultiplier
-      value: 20
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 50173885983936154, guid: 4d2fcc14312b4384bb41f592227b1564, type: 2}
