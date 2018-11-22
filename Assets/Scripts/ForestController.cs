@@ -7,7 +7,9 @@ public class ForestController : MonoBehaviour
     private TreeController[] trees;
     private int treeCount;
     private int completedTrees;
-    private int giftedLevels = 10;
+
+    [SerializeField]
+    private int giftedLevels = 5;
 
     void Start()
     {

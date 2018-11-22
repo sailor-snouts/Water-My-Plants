@@ -15,6 +15,9 @@ public class BallController : MonoBehaviour {
     private Rigidbody2D rb;
     private bool ballInPlay;
     private float stuckPositionY = 0.75f;
+    private Queue<Vector2> hits = new Queue<Vector2>();
+    private int hitRepeatCount = 0;
+    private bool adjustVelocity;
 
     void Awake () {
         this.rb = gameObject.GetComponent<Rigidbody2D>();
@@ -27,6 +30,13 @@ public class BallController : MonoBehaviour {
         // game started do nothing
         if (ballInPlay)
         {
+            if(this.adjustVelocity)
+            {
+                this.rb.velocity = Quaternion.AngleAxis(Random.Range(-5f, 5f), Vector3.forward) * this.rb.velocity;
+
+                this.adjustVelocity = false;
+            }
+
             return;
         } 
 
@@ -54,12 +64,35 @@ public class BallController : MonoBehaviour {
             return;
         }
 
+        this.hits.Enqueue(this.transform.position);
+
+        while (this.hits.Count > 12)
+        {
+            this.hits.Dequeue();
+        }
+
+        this.hitRepeatCount = 0;
+        foreach (Vector2 hit in this.hits)
+        {
+            if (Vector2.Distance(this.transform.position, hit) < 0.1f)
+            {
+                this.hitRepeatCount++;
+            }
+        }
+        
+        if (this.hitRepeatCount >= 3)
+        {
+            this.adjustVelocity = true;
+        }
+
         // adjust theta based on where it hit the paddle
         if (col.gameObject.tag == "Player")
         {
             this.rb.velocity = Vector3.zero;
             Vector2 dir = this.gameObject.transform.position - col.gameObject.transform.position;
             rb.AddForce(dir.normalized * this.ballInitialVelocity);
+
+            return;
         }
 
         // deadzone, reset ball
@@ -73,6 +106,8 @@ public class BallController : MonoBehaviour {
                 return;
             }
             this.tankScript.UseWater(25);
+
+            return;
         }
 
         // Plant
@@ -85,14 +120,14 @@ public class BallController : MonoBehaviour {
                 tree.LevelUp();
                 this.audio.clip = this.tree;
                 this.audio.Play();
-            }
 
+                return;
+            }
         }
     }
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-
         // Tree
         if (col.gameObject.tag == "Flower")
         {

@@ -17,6 +17,7 @@ public class FadeScenes : MonoBehaviour
     public Texture2D ProgressBarBackground;
     public Texture2D fadeOutTexture;
     public float fadeSpeed = 0.8f;
+    public bool fadeAudio = true;
 
     private bool isInProgress = true;
     private int drawDepth = -1000;
@@ -26,7 +27,7 @@ public class FadeScenes : MonoBehaviour
 
     public void Update()
     {
-        if(isInProgress)
+        if(this.isInProgress && this.fadeAudio)
         {
             AudioListener.volume = 1f - alpha;
         }

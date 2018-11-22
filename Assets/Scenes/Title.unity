@@ -521,6 +521,7 @@ MonoBehaviour:
     type: 3}
   fadeOutTexture: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3, type: 3}
   fadeSpeed: 0.8
+  fadeAudio: 1
 --- !u!4 &1973130077
 Transform:
   m_ObjectHideFlags: 0

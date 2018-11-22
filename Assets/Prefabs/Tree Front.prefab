@@ -87,7 +87,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 052e63cd2efd59d40a7966e342db27c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelCost: 8
+  levelCost: 2
   levelCap: 4
 --- !u!212 &212080110828308502
 SpriteRenderer:
