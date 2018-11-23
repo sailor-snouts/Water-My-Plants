@@ -20,8 +20,8 @@ public class GameManager : MonoBehaviour
     {
         this.spriteR = this.ground.GetComponentsInChildren<SpriteRenderer>();
         this.groundCount = this.spriteR.Length;
-        Application.targetFrameRate = 120;
         QualitySettings.vSyncCount = 0;
+        Application.targetFrameRate = 60;
     }
 	
 	void Update ()

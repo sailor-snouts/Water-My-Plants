@@ -220,15 +220,40 @@ Prefab:
       propertyPath: transitionMessage
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 223868797554233280, guid: ccc966b2a0ef7504fab577ac0e0280a2,
+        type: 2}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224547329161301016, guid: ccc966b2a0ef7504fab577ac0e0280a2,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224547329161301016, guid: ccc966b2a0ef7504fab577ac0e0280a2,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224547329161301016, guid: ccc966b2a0ef7504fab577ac0e0280a2,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 223868797554233280, guid: ccc966b2a0ef7504fab577ac0e0280a2,
+        type: 2}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1382870409}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: ccc966b2a0ef7504fab577ac0e0280a2, type: 2}
-  m_IsPrefabParent: 0
+  m_SourcePrefab: {fileID: 100100000, guid: ccc966b2a0ef7504fab577ac0e0280a2, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1382870406
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
+  serializedVersion: 6
   m_Component:
   - component: {fileID: 1382870410}
   - component: {fileID: 1382870409}
@@ -246,27 +271,31 @@ GameObject:
 --- !u!81 &1382870407
 AudioListener:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_Enabled: 1
 --- !u!124 &1382870408
 Behaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_Enabled: 1
 --- !u!20 &1382870409
 Camera:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_projectionMatrixMode: 1
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -296,7 +325,7 @@ Camera:
 --- !u!4 &1382870410
 Transform:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -309,7 +338,7 @@ Transform:
 --- !u!114 &1382870411
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_Enabled: 1
@@ -320,7 +349,7 @@ MonoBehaviour:
 --- !u!328 &1382870412
 VideoPlayer:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1382870406}
   m_Enabled: 1
@@ -353,9 +382,9 @@ VideoPlayer:
 --- !u!1 &1810584354
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
+  serializedVersion: 6
   m_Component:
   - component: {fileID: 1810584356}
   - component: {fileID: 1810584355}
@@ -370,7 +399,7 @@ GameObject:
 --- !u!82 &1810584355
 AudioSource:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1810584354}
   m_Enabled: 1
@@ -465,7 +494,7 @@ AudioSource:
 --- !u!4 &1810584356
 Transform:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1810584354}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -478,7 +507,7 @@ Transform:
 --- !u!114 &1810584357
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1810584354}
   m_Enabled: 1
@@ -490,3 +519,4 @@ MonoBehaviour:
   ProgressBarBackground: {fileID: 0}
   fadeOutTexture: {fileID: 2800000, guid: 7385e70e137cb0f47bc5c4b0e7af8dd3, type: 3}
   fadeSpeed: 0.8
+  fadeAudio: 1
