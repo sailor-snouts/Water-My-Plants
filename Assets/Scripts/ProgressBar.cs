@@ -24,6 +24,7 @@ public class ProgressBar : MonoBehaviour
 
     public void SetGoal(float completion)
     {
+        Debug.Log("setting fill to " + completion);
         this.current = Mathf.Clamp01(completion);
         this.fill = Mathf.InverseLerp(0, 1f, this.current);
     }

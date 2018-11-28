@@ -22,6 +22,8 @@ public class GameManager : MonoBehaviour
         this.spriteR = this.ground.GetComponentsInChildren<SpriteRenderer>();
         this.groundCount = this.spriteR.Length;
         this.progressBar = FindObjectOfType<ProgressBar>();
+        this.completion = this.forest.GetCompletion();
+        this.progressBar.SetGoal(completion);
         QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 60;
     }

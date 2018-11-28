@@ -6,8 +6,6 @@ using UnityEngine;
 public class TreeController : MonoBehaviour
 {
     public int levelCost = 2;
-    private float timeUntilDowngrade;
-    private float downgradeTimer = 12f;
     public int levelCap = 4;
     private int level = 1;
     private Animator anim;
@@ -17,17 +15,6 @@ public class TreeController : MonoBehaviour
         this.anim = gameObject.GetComponent<Animator>();
         this.forest = this.GetComponentInParent<ForestController>();
     }
-	
-	void Update () {
-		if(this.level > 1 && this.level != this.levelCap)
-        {
-            this.timeUntilDowngrade -= Time.deltaTime;
-            if(timeUntilDowngrade <= 0)
-            {
-                this.LevelDown();
-            }
-        }
-	}
 
     public int GetLevelCost()
     {
@@ -69,6 +56,5 @@ public class TreeController : MonoBehaviour
 
         this.level = level;      
         this.anim.SetInteger("Level", level);
-        this.timeUntilDowngrade = this.level * this.downgradeTimer;
     }
 }

@@ -7,9 +7,7 @@ public class ForestController : MonoBehaviour
     private TreeController[] trees;
     private int treeCount;
     private int completedTrees;
-
-    [SerializeField]
-    private int giftedLevels = 5;
+    private int giftedLevels = 10;
 
     void Start()
     {
@@ -20,8 +18,16 @@ public class ForestController : MonoBehaviour
         for (int i = 0; i < this.giftedLevels; i++)
         {
             int luckyTree = Random.Range(1, this.treeCount) - 1;
-            this.trees[luckyTree].Start();
-            this.trees[luckyTree].LevelUp();
+            if (this.trees[luckyTree].gameObject.tag == "Flower")
+            {
+                i--;
+                continue;
+            }
+            else
+            {
+                this.trees[luckyTree].Start();
+                this.trees[luckyTree].LevelUp();
+            }
         }
     }
 
